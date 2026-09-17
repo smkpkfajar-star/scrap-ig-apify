@@ -1,534 +1,500 @@
 [
   {
-    "id": "3951109591958037968",
+    "id": "3988239219235207691",
     "type": "Video",
     "caption": {
-      "created_at": 1785230151,
-      "created_at_utc": 1785230151,
+      "created_at": 1789655386,
+      "created_at_utc": 1789655386,
       "did_report_as_spam": false,
-      "has_translation": true,
       "hashtags": [
-        "#smkbisa",
-        "#dkvtamsisjetis",
-        "#smktamansiswajetis",
-        "#gelarkarya",
-        "#bbppmpv"
+        "#smptamansiswajetisjogja",
+        "#smptdjetisyk",
+        "#augmented_reality",
+        "#komunitasbelajar",
+        "#assemblredu"
       ],
-      "id": "3951109591958037968",
+      "id": "3988239219235207691",
+      "is_covered": false,
+      "is_ranked_comment": false,
+      "mentions": [],
+      "private_reply_status": 0,
+      "share_enabled": false,
+      "text": "Tingkatkan Minat Belajar Siswa, SMP Taman Dewasa Jetis Gelar Pelatihan Media Pembelajaran 3 Dimensi\n https://www.atmago.com/berita-warga/tingkatkan-minat-belajar-siswa-smp-taman-dewasa-jetis-gelar-pelatihan-media-pembelajaran-3-dimensi_0b0065bc-8fd3-494c-93be-16edad42faa6\n\n#smptamansiswajetisjogja \n#smptdjetisyk \n#augmented_reality\n#komunitasbelajar \n#assemblredu",
+      "type": 1,
+      "user": {
+        "fbid_v2": "17841406815068219",
+        "full_name": "SMP Taman Dewasa Jetis Jogja",
+        "id": "6945755168",
+        "is_private": false,
+        "is_unpublished": false,
+        "is_verified": false,
+        "profile_pic_id": "2457320462711052036",
+        "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/129434888_119191293252002_8485522948592447142_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHlGU0pVO3yEC3Yt1mQeb8DLiESiVjPugPhOeYjCKYhdXiIx69F9Sw4RNUsZMohRgg&_nc_ohc=XbH13en3q9gQ7kNvwG50Yxs&_nc_gid=bnwY3UUskUttvlXZSmHE4g&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GAgFtwei0bFiZ2wAAKYuR9wposJ1bkULAAAB1501500j-ccb7-5&oh=00_AQIQaMHf6cWXufkrQ-lxUUaJ_yjP8JY2WaDI2E5RbVSC9A&oe=6AB26009&_nc_sid=ee9879",
+        "username": "smptamandewasajetisjogja"
+      },
+      "user_id": "6945755168"
+    },
+    "thumbnailUrl": "https://scontent-arn2-1.cdninstagram.com/v/t51.71878-15/813923305_1168074065825489_1318838197314397150_n.jpg?stp=dst-jpg_e15_p360x360_tt6&_nc_cat=106&ig_cache_key=Mzk4ODIzOTIxOTIzNTIwNzY5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Z74G0xbUIdoQ7kNvwHff-tB&_nc_oc=AdpeVCWhuSK5OGxKuXKU7zbzMIchJ5IX4hzppBmE7TOhptXJc9JT-esdlxej9-MtQQI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&oh=00_AQLBPQl0ZW1Gz7N4qmrRhnttk3DL6EYxFwDJQi8L7-FzGA&oe=6AB2329A",
+    "isVideo": true,
+    "videoUrl": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQNkMIRl4j_3gqoaxuX2ULBG3ycyHlpcsvK-ogG1bfZmA5Tu9szK5LW7tq5Out5Vp91oKGrCLmLoso1sDGik9BEU6q9kemC4iDuEao0.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=SF1NeIHTcTYQ7kNvwFSGLrh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5MTk2NDIxODQ5Mjk2NywiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d019c568bd8b5df&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FODREQTVBN0IyNjFCMjUyQTc3NUEyNkRGRkFEODBCMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzc4NDI1NDM2MjFERTM1MTdERTY1MUFGQjVGMUFGOUJEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbOoIzrhfKuBhUCKAJDMywXQEBzMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQKK_lw9WtZAwN66jAg08tX4ps0-xzhsTDY77UqJqGUxrg&oe=6AAE44E4",
+    "likesCount": 5,
+    "commentsCount": 0,
+    "postUrl": "https://www.instagram.com/p/DdZEnB1y7oL/",
+    "timestamp": "2026-09-17T14:29:47+00:00"
+  },
+  {
+    "id": "3987870008369299461",
+    "type": "Video",
+    "caption": {
+      "created_at": 1789611275,
+      "created_at_utc": 1789611275,
+      "did_report_as_spam": false,
+      "hashtags": [
+        "#kombel",
+        "#smptamansiswajetisjogja",
+        "#smptdjetisyk"
+      ],
+      "id": "3987870008369299461",
       "is_covered": false,
       "is_ranked_comment": false,
       "mentions": [
-        "@smktamsisjetis_yk",
-        "@bbppmpvsb.kemendikdasmen"
+        "@smptamandewasajetisjogja"
       ],
       "private_reply_status": 0,
       "share_enabled": false,
-      "text": "Pada hari Senin dan Selasa, 27-28 Juli 2026, jurusan DKV SMK Tamansiswa Jetis @smktamsisjetis_yk mendapatkan kesempatan untuk terlibat dalam rangkaian acara Gelar Karya Upskilling-Reskilling guru2 vokasi se-Indonesia di @bbppmpvsb.kemendikdasmen\n\nSatu kata: SERU !\nDisini kami diberi ruang (yang sangat lega 🔥) untuk showcase produk dan hasil eksperimen kami selaku warga DKV yang kadang iseng ini\n\nTerimakasih, BBPPMPV Seni dan Budaya !\n\n#smkbisa #dkvtamsisjetis #smktamansiswajetis #gelarkarya #bbppmpv",
+      "text": "Salam dan Bahagia,\nYuk terus jadi pembelajar sepanjang hayat...\nHari ini pamong @smptamandewasajetisjogja akan belajar bersama pemateri hebat dari orangtua siswa Bunda Rini.\n.\n.\nYuk kita terus belajar bersama \n#kombel \n#smptamansiswajetisjogja \n#smptdjetisyk",
       "type": 1,
       "user": {
-        "fbid_v2": "17841480627527369",
-        "full_name": "DKV | SMK Tamsis Jetis",
-        "id": "80458959584",
+        "fbid_v2": "17841406815068219",
+        "full_name": "SMP Taman Dewasa Jetis Jogja",
+        "id": "6945755168",
         "is_private": false,
         "is_unpublished": false,
         "is_verified": false,
-        "profile_pic_id": "3825539930249177725",
-        "profile_pic_url": "https://scontent-bru2-1.cdninstagram.com/v/t51.82787-19/625050797_17843385498687585_2656490122657793010_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGbKA1kFPsMDZMzVth3cjrJvEizvVDs03Ee9V6Y1JCWFdO7FdPcLyf_7YB0khiMyRM&_nc_ohc=jfpHGlpI898Q7kNvwGqve9z&_nc_gid=xKl-1qbhDB74fesC_TnCkg&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GK2EQSVhWD3udmQ-APIDWh6xv90kbmNDAQAB1501500j-ccb7-5&oh=00_AQI4C-NgqFtq8ftQSh2qMsnCEcDoKgrJQJruR-4ADz4aXw&oe=6AB1E932&_nc_sid=ee9879",
-        "username": "dkv.tamansiswa.jetis"
+        "profile_pic_id": "2457320462711052036",
+        "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/129434888_119191293252002_8485522948592447142_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHlGU0pVO3yEC3Yt1mQeb8DLiESiVjPugPhOeYjCKYhdXiIx69F9Sw4RNUsZMohRgg&_nc_ohc=XbH13en3q9gQ7kNvwG50Yxs&_nc_gid=bnwY3UUskUttvlXZSmHE4g&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GAgFtwei0bFiZ2wAAKYuR9wposJ1bkULAAAB1501500j-ccb7-5&oh=00_AQIQaMHf6cWXufkrQ-lxUUaJ_yjP8JY2WaDI2E5RbVSC9A&oe=6AB26009&_nc_sid=ee9879",
+        "username": "smptamandewasajetisjogja"
       },
-      "user_id": "80458959584"
+      "user_id": "6945755168"
     },
-    "thumbnailUrl": "https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/758706897_17873632566687585_8618655790891915263_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=111&ig_cache_key=Mzk1MTEwOTU5MTk1ODAzNzk2ODE3ODczNjMyNTYzNjg3NTg1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjU0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=tGzVyy6CXlcQ7kNvwF87idU&_nc_oc=AdqdF2eOExWAyUd_zkw6M2_s8sRJ4l4xSGEwS8yw5b-K9enHzXoTNcHaB2tjlMHCLUs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=xKl-1qbhDB74fesC_TnCkg&_nc_ss=7a3ba&oh=00_AQIb0Dd3WBp7fy998b0iOBLYad52EjNH89I0uukJ0llNPQ&oe=6AB1EE2F",
+    "thumbnailUrl": "https://scontent-arn2-1.cdninstagram.com/v/t51.71878-15/813959269_1388365092892035_2709392902569347677_n.jpg?stp=dst-jpg_e15_p360x360_tt6&_nc_cat=110&ig_cache_key=Mzk4Nzg3MDAwODM2OTI5OTQ2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=r9WpAPPeulQQ7kNvwFS7vzX&_nc_oc=AdrhuX6pAioixkNJiqKMY8bFC4UyXgQzi26s6oIMIgBtYFzx5GH6tDDEqPlwb5dD0ow&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&oh=00_AQKo0tKO2_Gh9k8iVh3AIg9rnCRdFwH0G-mwvS3gDlOgKw&oe=6AB23B86",
     "isVideo": true,
-    "videoUrl": "https://scontent-bru2-1.cdninstagram.com/o1/v/t2/f2/m86/AQNg1J-Lf_Mz_7IJ2vyIo6GnryJI68yRa6vvxnw1bSyLWNtZBAoe2sJHVgFkzq_vvldguQISnY_1by_fDBhpePaCXsmozLFcZdjWzDU.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_ohc=QF4zgpn36e4Q7kNvwGpyn7b&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTI4MC5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ4cHZfYXNzZXRfaWQiOjIwNDYzMTE1OTYyNTQ5NTIsImFzc2V0X2FnZV9kYXlzIjo1MSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjg1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=2448b5deacc9a2e3&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85OTQwRUIwNzM2NjkxNDI5RkMzRjA0RjAxRDQ2RkY4Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0E4NDk4OTJEOERGRjc4NDU4MkJDMjE1OEVGQkMxNEIxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQm9u8gceiBxUCKAJDMywXQFVZmZmZmZoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=xKl-1qbhDB74fesC_TnCkg&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQL3AqMMSqmOLy_vhXgMj5lf4x5zavmUnpSQBA-cwAoM1A&oe=6AADEC0C",
-    "likesCount": 72,
-    "commentsCount": 4,
-    "postUrl": "https://www.instagram.com/p/DbVKT1xTCXQ/",
-    "timestamp": "2026-07-28T09:15:51+00:00"
-  },
-  {
-    "id": "3942505222996206081",
-    "type": "Video",
-    "caption": {
-      "created_at": 1784203432,
-      "created_at_utc": 1784203432,
-      "did_report_as_spam": false,
-      "hashtags": [
-        "#smktamsisjetis",
-        "#smktamansiswajetisyogyakarta",
-        "#smkbisa",
-        "#pembekalankelasxii",
-        "#fypシ❤️💞❤️"
-      ],
-      "id": "3942505222996206081",
-      "is_covered": false,
-      "is_ranked_comment": false,
-      "mentions": [],
-      "private_reply_status": 0,
-      "share_enabled": false,
-      "text": "Pembekalan hari ke 2 kelas XII SMK TAMANSISWA JETIS.. yuk terus kepoin kegiatan kami, bantu follow like dan share ya kakak kakak.terimakasihh \n\n#smktamsisjetis #smktamansiswajetisyogyakarta #smkbisa #pembekalankelasxii #fypシ❤️💞❤️",
-      "type": 1,
-      "user": {
-        "fbid_v2": "17841425230888204",
-        "full_name": "SMK TAMANSISWA JETIS OFFICIAL",
-        "id": "25345633029",
-        "is_private": false,
-        "is_unpublished": false,
-        "is_verified": false,
-        "profile_pic_id": "2819671068992503339",
-        "profile_pic_url": "https://scontent-bru2-1.cdninstagram.com/v/t51.2885-19/278831815_274211718253594_4344030877330905091_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NDcuYzIifQ&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGbKA1kFPsMDZMzVth3cjrJvEizvVDs03Ee9V6Y1JCWFdO7FdPcLyf_7YB0khiMyRM&_nc_ohc=9khkNife7YQQ7kNvwFATDu5&_nc_gid=xKl-1qbhDB74fesC_TnCkg&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GMeinhAaTA-kZPkAAAMYozgRGUk8bkULAAAB1501500j-ccb7-5&oh=00_AQJZ9vRqOHEmquwZD3BGNhnee1p0GDPzFJFUCfkQJyLTNg&oe=6AB1EDE4&_nc_sid=ee9879",
-        "username": "smktamsisjetis_yk"
-      },
-      "user_id": "25345633029"
-    },
-    "thumbnailUrl": "https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/747881568_18122112082841030_1837432070042319380_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=108&ig_cache_key=Mzk0MjUwNTIyMjk5NjIwNjA4MTE4MTIyMTEyMDc2ODQxMDMw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjQ4MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=mnrK4aaSE_gQ7kNvwE7PuoS&_nc_oc=AdosROdzvN9jsKYYvtIgXxKMyr-c-adna5V6hgafH06umT8GiRPPwiXT4bIGZi2G6gU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=xKl-1qbhDB74fesC_TnCkg&_nc_ss=7a3ba&oh=00_AQJU7lsit-cqyoPidzmIB5YzUMGzLusBFnC94LwlZLTrPA&oe=6AB1C5A9",
-    "isVideo": true,
-    "videoUrl": "https://scontent-bru2-1.cdninstagram.com/o1/v/t2/f2/m86/AQOK5mr_jDngBossx6nispbrLY1_dVkx2Aq4Fh50F4tHIAaGlvKPlWV1d7dUVCLQe9aF7zWAux1pEeAevenH2OvMgDZc6XBEZARqVEE.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_ohc=zY3wGJr7ON4Q7kNvwEbqUrw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNDgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6Mjc2OTIzMTM4MjA0MzM5NTYsImFzc2V0X2FnZV9kYXlzIjo2MywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjQyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=7e0cbc7c1d10625e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84NDQ1MUYwRkI0QkFFMTU0MDEyMUEyN0Q1MENDMkQ5Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0JCNERBQUU5MThCRTRGMkJGMDZBRUEzNkM3QUMxOEJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbIuLSE6ICxYhUCKAJDMywXQEViDEm6XjUYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=xKl-1qbhDB74fesC_TnCkg&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQILS5P_q6-fs7tNF1WRhZdI8zdNF03i3N7m7HLhH056iw&oe=6AADEBA5",
-    "likesCount": 36,
-    "commentsCount": 1,
-    "postUrl": "https://www.instagram.com/p/Da2l5ytz6IB/",
-    "timestamp": "2026-07-16T12:03:53+00:00"
-  },
-  {
-    "id": "3942197208745484370",
-    "type": "Video",
-    "caption": {
-      "created_at": 1784166667,
-      "created_at_utc": 1784166667,
-      "did_report_as_spam": false,
-      "hashtags": [
-        "#smktamansiswajetisyogyakarta",
-        "#smktamansiswa",
-        "#smkpusatkeunggulan",
-        "#smktamansiswajetis",
-        "#mplsday2"
-      ],
-      "id": "3942197208745484370",
-      "is_covered": false,
-      "is_ranked_comment": false,
-      "mentions": [],
-      "private_reply_status": 0,
-      "share_enabled": false,
-      "text": "MPLS DAY 2 SMK TAMANSISWA JETIS Yogyakarta..\n\nYuk kepoin terus kegiatan MPLS kami gaess.. jangan lupa follow like dan share \n#smktamansiswajetisyogyakarta #smktamansiswa #smkpusatkeunggulan #smktamansiswajetis #mplsday2",
-      "type": 1,
-      "user": {
-        "fbid_v2": "17841425230888204",
-        "full_name": "SMK TAMANSISWA JETIS OFFICIAL",
-        "id": "25345633029",
-        "is_private": false,
-        "is_unpublished": false,
-        "is_verified": false,
-        "profile_pic_id": "2819671068992503339",
-        "profile_pic_url": "https://scontent-bru2-1.cdninstagram.com/v/t51.2885-19/278831815_274211718253594_4344030877330905091_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NDcuYzIifQ&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGbKA1kFPsMDZMzVth3cjrJvEizvVDs03Ee9V6Y1JCWFdO7FdPcLyf_7YB0khiMyRM&_nc_ohc=9khkNife7YQQ7kNvwFATDu5&_nc_gid=xKl-1qbhDB74fesC_TnCkg&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GMeinhAaTA-kZPkAAAMYozgRGUk8bkULAAAB1501500j-ccb7-5&oh=00_AQJZ9vRqOHEmquwZD3BGNhnee1p0GDPzFJFUCfkQJyLTNg&oe=6AB1EDE4&_nc_sid=ee9879",
-        "username": "smktamsisjetis_yk"
-      },
-      "user_id": "25345633029"
-    },
-    "thumbnailUrl": "https://scontent-bru2-1.cdninstagram.com/v/t51.71878-15/747145213_1563967458852536_3522195598759166865_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=100&ig_cache_key=Mzk0MjE5NzIwODc0NTQ4NDM3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=BZY-5WJvGtoQ7kNvwG4lkFB&_nc_oc=AdraifA194Zo0cAquTAzWZgWXBntImK3suW7q8ccwR1sjGXbjXE-hkhwBitbbI-Wah0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=xKl-1qbhDB74fesC_TnCkg&_nc_ss=7a3ba&oh=00_AQLTnoXVZJrKeQsyegCPR8q0gCBAHdFSKqggvfIfL8Q7eg&oe=6AB1D920",
-    "isVideo": true,
-    "videoUrl": "https://scontent-bru2-1.cdninstagram.com/o1/v/t2/f2/m86/AQM-1WMfKedQ4kiPCSmyOikh0ax2XXyIU59fW0xzxGu24dni7zvAGpHrmU9cYsD1M7D58sjOOYzjjs_TtESVxSFVlIeIPgpi8qmLIOo.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_ohc=KvD9snubqzsQ7kNvwG_zyFS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNDgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6OTE0Nzc1MDQ0OTk4NjAzLCJhc3NldF9hZ2VfZGF5cyI6NjMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ad2c6e0cef2c71d2&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85QTRDNjYwQUNBRkVENkJDNEVBRUUwRDZGREMzQjdBQV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzZGNEUwN0ZERjc0NEIwMTM5NTFBQkU0ODVGNkQzMDgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaWl9qZ9f6fAxUCKAJDMywXQD8iDEm6XjUYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=xKl-1qbhDB74fesC_TnCkg&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQJ38jtJ8BLs79JWbdPCxIWWZw_68E2_uVodKEcVPsl5lQ&oe=6AADC8A0",
-    "likesCount": 25,
+    "videoUrl": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMPqP63lMo10QW-TX027PRqWYd7TXItmmXLkNizpMnIO2WUIlczj7vMD9WM9OYPq8ivo5VkUOQVlXxL8jnjdnxafbGvqeNdqBo-a8E.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=I0xZNYwPFmUQ7kNvwEZ6YbT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5MTM3OTA0ODY2NzkxNywiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=23552ecaf4bf5f5&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GMDQyNTExQTlCQzA3QTY5NEMxMzAxQTdBRTc1NkU4OV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzVBNDJGOERGNTk5RDUwQjlCNEJFOUFGQjZGNTFBMzk1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaa7NT9_c-uBhUCKAJDMywXQBQhysCDEm8YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQKsdHKQ6yC493O7YNJ-Yw7uSGsbHnbll-zF6Nr_i6ynnw&oe=6AAE5093",
+    "likesCount": 8,
     "commentsCount": 0,
-    "postUrl": "https://www.instagram.com/p/Da1f3mFz6BS/",
-    "timestamp": "2026-07-16T01:51:08+00:00"
+    "postUrl": "https://www.instagram.com/p/DdXwqTbSUAF/",
+    "timestamp": "2026-09-17T02:14:36+00:00"
   },
   {
-    "id": "3941677195428935396",
+    "id": "3987355454986945675",
     "type": "Video",
     "caption": {
-      "created_at": 1784104719,
-      "created_at_utc": 1784104719,
-      "did_report_as_spam": false,
-      "hashtags": [
-        "#smktamansiswa",
-        "#smktamansiswajetisyogyakarta",
-        "#smkbisa",
-        "#mplsramah2026"
-      ],
-      "id": "3941677195428935396",
-      "is_covered": false,
-      "is_ranked_comment": false,
-      "mentions": [],
-      "private_reply_status": 0,
-      "share_enabled": false,
-      "text": "Pembekalan karakter kelas XI SMK TAMANSISWA JETIS TAHUN AJARAN 2026/2027.. bantu follow like dan share ya kakak2. Yuk kepoin sekolah kami\n\n#smktamansiswa #smktamansiswajetisyogyakarta #smkbisa #mplsramah2026",
-      "type": 1,
-      "user": {
-        "fbid_v2": "17841425230888204",
-        "full_name": "SMK TAMANSISWA JETIS OFFICIAL",
-        "id": "25345633029",
-        "is_private": false,
-        "is_unpublished": false,
-        "is_verified": false,
-        "profile_pic_id": "2819671068992503339",
-        "profile_pic_url": "https://scontent-bru2-1.cdninstagram.com/v/t51.2885-19/278831815_274211718253594_4344030877330905091_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NDcuYzIifQ&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGbKA1kFPsMDZMzVth3cjrJvEizvVDs03Ee9V6Y1JCWFdO7FdPcLyf_7YB0khiMyRM&_nc_ohc=9khkNife7YQQ7kNvwFATDu5&_nc_gid=xKl-1qbhDB74fesC_TnCkg&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GMeinhAaTA-kZPkAAAMYozgRGUk8bkULAAAB1501500j-ccb7-5&oh=00_AQJZ9vRqOHEmquwZD3BGNhnee1p0GDPzFJFUCfkQJyLTNg&oe=6AB1EDE4&_nc_sid=ee9879",
-        "username": "smktamsisjetis_yk"
-      },
-      "user_id": "25345633029"
-    },
-    "thumbnailUrl": "https://scontent-bru2-1.cdninstagram.com/v/t51.71878-15/748480832_2128749241019367_6112196863016158577_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=107&ig_cache_key=Mzk0MTY3NzE5NTQyODkzNTM5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=H5I70sFlrFQQ7kNvwFvsdX-&_nc_oc=Adrp26-PsRUr9mjRzJnb47bvhb7g3jeZcTX_aShz0bH8z3x7NTNVrJaVjmM758RBl9Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=xKl-1qbhDB74fesC_TnCkg&_nc_ss=7a3ba&oh=00_AQKOeYU3-Itl7_AZEeqdmyK5K8ysAMs6c6s2ZXhgl2hDYA&oe=6AB1CC1E",
-    "isVideo": true,
-    "videoUrl": "https://scontent-bru2-1.cdninstagram.com/o1/v/t2/f2/m86/AQOTaiAOabbK9Slk5eDsGakGeru9eSyWixeOQnxp4uBhYPFcLz7rIR8iby6aX-aS2BHJ65EFylTT7kgG0ukYxZFYQTujBAJaUQHEHWA.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_ohc=BWIAWQwaIJAQ7kNvwFDEMrR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNDgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTA0NjcxNjk1MTExMDMwMywiYXNzZXRfYWdlX2RheXMiOjY0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=58371f82328c833b&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CRTQ1NDMzMDcwMjFBREJBODA1OUE1MTA4MzhGMTZCRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0I1NDRERkMwMkZFQUQwQkNEMjREMUIyN0ZCMThFQ0FEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-iumA-f7bAxUCKAJDMywXQD-IcrAgxJwYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=xKl-1qbhDB74fesC_TnCkg&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQJbZsnt5HeRRIbFiSdnjKkonswmwUsb16Q9Pl65tVUtuA&oe=6AADD602",
-    "likesCount": 27,
-    "commentsCount": 0,
-    "postUrl": "https://www.instagram.com/p/DazpoZ8zLbk/",
-    "timestamp": "2026-07-15T08:38:40+00:00"
-  },
-  {
-    "id": "3941044903907959117",
-    "type": "Video",
-    "caption": {
-      "created_at": 1784029376,
-      "created_at_utc": 1784029376,
-      "did_report_as_spam": false,
-      "hashtags": [
-        "#smktamansiswajetisyogyakarta",
-        "#smktamsis",
-        "#mplsday1",
-        "#tamansiswajetis",
-        "#fullsenyum"
-      ],
-      "id": "3941044903907959117",
-      "is_covered": false,
-      "is_ranked_comment": false,
-      "mentions": [],
-      "private_reply_status": 0,
-      "share_enabled": false,
-      "text": "MPLS DAY-1  SMK TAMANSISWA JETIS. Full bahagia \n\n#smktamansiswajetisyogyakarta #smktamsis #mplsday1 #tamansiswajetis #fullsenyum",
-      "type": 1,
-      "user": {
-        "fbid_v2": "17841425230888204",
-        "full_name": "SMK TAMANSISWA JETIS OFFICIAL",
-        "id": "25345633029",
-        "is_private": false,
-        "is_unpublished": false,
-        "is_verified": false,
-        "profile_pic_id": "2819671068992503339",
-        "profile_pic_url": "https://scontent-bru2-1.cdninstagram.com/v/t51.2885-19/278831815_274211718253594_4344030877330905091_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NDcuYzIifQ&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGbKA1kFPsMDZMzVth3cjrJvEizvVDs03Ee9V6Y1JCWFdO7FdPcLyf_7YB0khiMyRM&_nc_ohc=9khkNife7YQQ7kNvwFATDu5&_nc_gid=xKl-1qbhDB74fesC_TnCkg&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GMeinhAaTA-kZPkAAAMYozgRGUk8bkULAAAB1501500j-ccb7-5&oh=00_AQJZ9vRqOHEmquwZD3BGNhnee1p0GDPzFJFUCfkQJyLTNg&oe=6AB1EDE4&_nc_sid=ee9879",
-        "username": "smktamsisjetis_yk"
-      },
-      "user_id": "25345633029"
-    },
-    "thumbnailUrl": "https://scontent-bru2-1.cdninstagram.com/v/t51.71878-15/745569844_1365598372233986_4795353771222110510_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=103&ig_cache_key=Mzk0MTA0NDkwMzkwNzk1OTExNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=BvdS_Eh0pVkQ7kNvwF0afeo&_nc_oc=AdpgtoiiiOKhGa8x-Qdu_c5S87_bjT_KinoLy6XyCFd_Q9jWUCkrfDSYMMnYYG5XsG0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=xKl-1qbhDB74fesC_TnCkg&_nc_ss=7a3ba&oh=00_AQI65_UCppavGZRE4bm9UD-tyU5IYDQIlxfBSI8w_7WDCQ&oe=6AB1BD5D",
-    "isVideo": true,
-    "videoUrl": "https://scontent-bru2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMIm2gIDBMyvOVRlWvTV-bf7lZfC4qBq7C7R1jXVYk8HoxI5QD8WucgHs1C-74W6Xaoh_AThz9Ip2n1OIaeegvZa_LbMS43jVIumfQ.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_ohc=uPVmaMt0LGQQ7kNvwEw_3OQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNDgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6ODk0NjU5Njk5NzY3MjE5LCJhc3NldF9hZ2VfZGF5cyI6NjUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ab0ab46c683a2197&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84MTRFQTVCNTdGMzMwRkJEMEQyRjc1QTYwNkU3NkE5Q192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzU0NDk5Qzc4QUY4ODhENUJBMDlENDJGNkI4QUJERDk0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbm3suZhuyWAxUCKAJDMywXQDfEGJN0vGoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=xKl-1qbhDB74fesC_TnCkg&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQKlPYxtNbbo_oqc1WEnDqBLObpMsI4Q6chgLdmaOhiFnA&oe=6AADD291",
-    "likesCount": 49,
-    "commentsCount": 1,
-    "postUrl": "https://www.instagram.com/p/DaxZ3WlTCFN/",
-    "timestamp": "2026-07-14T11:42:57+00:00"
-  },
-  {
-    "id": "3929870941089960603",
-    "type": "Video",
-    "caption": {
-      "created_at": 1782699552,
-      "created_at_utc": 1782699552,
-      "did_report_as_spam": false,
-      "hashtags": [
-        "#smkdkvyogyakarta",
-        "#dkvtamsisjetis",
-        "#smkDKV",
-        "#SPMB2026",
-        "#smkbisasmkhebat"
-      ],
-      "id": "3929870941089960603",
-      "is_covered": false,
-      "is_ranked_comment": false,
-      "mentions": [
-        "@_reeasond"
-      ],
-      "private_reply_status": 0,
-      "share_enabled": false,
-      "text": "sekolah lain posting pamflet, kita warga dkv memilih untuk posting meme 🗿🤌\n\nDAFTAR GAK !? 🔫😭 \n\neditor gaya bebas: @_reeasond\n\n#smkdkvyogyakarta #dkvtamsisjetis #smkDKV #SPMB2026 #smkbisasmkhebat",
-      "type": 1,
-      "user": {
-        "fbid_v2": "17841480627527369",
-        "full_name": "DKV | SMK Tamsis Jetis",
-        "id": "80458959584",
-        "is_private": false,
-        "is_unpublished": false,
-        "is_verified": false,
-        "profile_pic_id": "3825539930249177725",
-        "profile_pic_url": "https://scontent-bru2-1.cdninstagram.com/v/t51.82787-19/625050797_17843385498687585_2656490122657793010_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGbKA1kFPsMDZMzVth3cjrJvEizvVDs03Ee9V6Y1JCWFdO7FdPcLyf_7YB0khiMyRM&_nc_ohc=jfpHGlpI898Q7kNvwGqve9z&_nc_gid=xKl-1qbhDB74fesC_TnCkg&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GK2EQSVhWD3udmQ-APIDWh6xv90kbmNDAQAB1501500j-ccb7-5&oh=00_AQI4C-NgqFtq8ftQSh2qMsnCEcDoKgrJQJruR-4ADz4aXw&oe=6AB1E932&_nc_sid=ee9879",
-        "username": "dkv.tamansiswa.jetis"
-      },
-      "user_id": "80458959584"
-    },
-    "thumbnailUrl": "https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/729965924_17868859809687585_404821444776734863_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=106&ig_cache_key=MzkyOTg3MDk0MTA4OTk2MDYwMzE3ODY4ODU5ODAzNjg3NTg1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjU0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=DZBo62tU5TUQ7kNvwH347lr&_nc_oc=Adq_kpK_iWuD6S-9QX1L-MnB693ULzILd4b5YSilEChBKSR96wwvFC61uYtqePlLbaQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=xKl-1qbhDB74fesC_TnCkg&_nc_ss=7a3ba&oh=00_AQKelWaAlajkJRN0CPKVygOeaeOJ0WTJDicUYnjDMXQlzQ&oe=6AB1D2B5",
-    "isVideo": true,
-    "videoUrl": "https://scontent-bru2-1.cdninstagram.com/o1/v/t2/f2/m86/AQM8uARvFjI-qsv3BvOngBnUixPMltc7q-zdtgWLyFu3WZcCwrsXjz3HcOF8Ds4Htsql8LYBjTPXNExcAkTU5KWW2yVCB_5ev7d0450.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_ohc=E4kqTqeWE2UQ7kNvwH11nKb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTI4MC5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ4cHZfYXNzZXRfaWQiOjEwMjA3ODcxMDM3OTY5MTgsImFzc2V0X2FnZV9kYXlzIjo4MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjEyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=5b086a524418a01b&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84OTQzQTBCMjg5RDA2QUVCRDdCQUU4MjE3QTdGRUJCRF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Y0NEZCRUNDM0VDMjIwMTMyODA3QkIyQjhGMDJFNTk1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbsurTL0JnQAxUCKAJDMywXQF31T987ZFoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=xKl-1qbhDB74fesC_TnCkg&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQLAOn8WCsAxMEC6eBMJ-6_AUdqROHz6hgNZX_XdXehAaQ&oe=6AADC8C5",
-    "likesCount": 50,
-    "commentsCount": 0,
-    "postUrl": "https://www.instagram.com/p/DaJtMywzBKb/",
-    "timestamp": "2026-06-29T01:54:57+00:00"
-  },
-  {
-    "id": "3902366342817497416",
-    "type": "Carousel",
-    "caption": {
-      "created_at": 1779418343,
-      "created_at_utc": 1779418343,
+      "created_at": 1789550407,
+      "created_at_utc": 1789550407,
       "did_report_as_spam": false,
       "has_translation": true,
       "hashtags": [
-        "#smkbisa",
-        "#smktamansiswajetis",
+        "#daerahistimewayogyakarta",
         "#tamansiswa",
-        "#industrikreatif",
-        "#smkpusatkeunggulan"
+        "#spmb2027smp",
+        "#smptamandewasajetis",
+        "#indonesia"
       ],
-      "id": "3902366342817497416",
-      "is_covered": false,
-      "is_ranked_comment": false,
-      "mentions": [
-        "@atip.hayat"
-      ],
-      "private_reply_status": 0,
-      "share_enabled": false,
-      "text": "Halo Sobat Dewantara!​ SMK Tamansiswa Jetis mendapatkan kehormatan besar atas kunjungan kerja Wakil Menteri Pendidikan Dasar dan Menengah, Prof. Atip Latipulhayat, S.H., LL.M., Ph.D. @atip.hayat, Kamis 21 Mei 2026.\n\n​Dalam kunjungannya, Wamen Atip berkesempatan meninjau langsung Ruang Praktik Siswa (RPS) DKV untuk melihat ekosistem pembelajaran praktik berbasis industri kreatif. Ia memberikan apresiasi yang luar biasa terhadap hasil karya dan kompetensi para siswa DKV.\n\n​Sebagai bentuk rasa bangga dan terima kasih atas kunker Wamen Atip, DKV Tamsis Jetis mempersembahkan kenang-kenangan berupa karya ilustrasi digital dan kaos sablon DTF (Direct to Film)\n\nTak hanya itu, Bapak Wamen juga menyempatkan diri untuk meninjau persiapan dan fasilitas program Makan Bergizi Gratis (MBG) di SMK Tamansiswa Jetis.\n\nTerima kasih atas kunjungan, arahan, dan motivasinya, Bapak Wamen! Dukungan ini menjadi suntikan semangat bagi kami untuk terus maju sebagai SMK Pusat Keunggulan yang melahirkan lulusan berdaya saing global.\n\n#smkbisa #smktamansiswajetis #tamansiswa #industrikreatif #smkpusatkeunggulan",
-      "type": 1,
-      "user": {
-        "fbid_v2": "17841425230888204",
-        "full_name": "SMK TAMANSISWA JETIS OFFICIAL",
-        "id": "25345633029",
-        "is_private": false,
-        "is_unpublished": false,
-        "is_verified": false,
-        "profile_pic_id": "2819671068992503339",
-        "profile_pic_url": "https://scontent-bru2-1.cdninstagram.com/v/t51.2885-19/278831815_274211718253594_4344030877330905091_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NDcuYzIifQ&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGbKA1kFPsMDZMzVth3cjrJvEizvVDs03Ee9V6Y1JCWFdO7FdPcLyf_7YB0khiMyRM&_nc_ohc=9khkNife7YQQ7kNvwFATDu5&_nc_gid=xKl-1qbhDB74fesC_TnCkg&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GMeinhAaTA-kZPkAAAMYozgRGUk8bkULAAAB1501500j-ccb7-5&oh=00_AQJZ9vRqOHEmquwZD3BGNhnee1p0GDPzFJFUCfkQJyLTNg&oe=6AB1EDE4&_nc_sid=ee9879",
-        "username": "smktamsisjetis_yk"
-      },
-      "user_id": "25345633029"
-    },
-    "thumbnailUrl": "https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/705394544_18116312713841030_4303187567266067961_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=109&ig_cache_key=MzkwMjM2NjMyMjUxNzA0OTQ0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=m604JAMWsXAQ7kNvwF2BgMZ&_nc_oc=AdpRbSN3ZcpBnyXhWYGoh7DMV02ka1SM6Iw5eCF-f8UBWdSEUbbavqlSzrOMfNCPBhk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=xKl-1qbhDB74fesC_TnCkg&_nc_ss=7a3ba&oh=00_AQKiNkmkVgwoK-EpUc4XQBSMaFFDZe7ND-7KCsTdFjYrUQ&oe=6AB1E497",
-    "isVideo": false,
-    "videoUrl": null,
-    "likesCount": 66,
-    "commentsCount": 0,
-    "postUrl": "https://www.instagram.com/p/DYn_YNfE8FI/",
-    "timestamp": "2026-05-22T02:52:21+00:00"
-  },
-  {
-    "id": "3901862593010950974",
-    "type": "Video",
-    "caption": {
-      "created_at": 1779362919,
-      "created_at_utc": 1779362919,
-      "did_report_as_spam": false,
-      "has_translation": true,
-      "hashtags": [
-        "#SMKTamansiswaJetis",
-        "#ditpsmk_kemdikbud",
-        "#kemdikdasmen",
-        "#AtipLatipulhayat",
-        "#MakanBergiziGratis"
-      ],
-      "id": "3901862593010950974",
+      "id": "3987355454986945675",
       "is_covered": false,
       "is_ranked_comment": false,
       "mentions": [],
       "private_reply_status": 0,
       "share_enabled": false,
-      "text": "Salam dan Bahagia!\n\nHalo Sobat Dewantara!​ SMK Tamansiswa Jetis mendapatkan kehormatan besar atas kunjungan kerja dari Wakil Menteri Pendidikan Dasar dan Menengah, Prof. Atip Latipulhayat, S.H., LL.M., Ph.D. 🇮🇩✨\n\n​Dalam kunjungan kali ini, Bapak Wamen berkesempatan meninjau langsung Ruang Praktik Siswa (RPS) DKV untuk melihat ekosistem pembelajaran praktik berbasis industri kreatif. Beliau memberikan apresiasi yang luar biasa terhadap hasil karya dan kompetensi para siswa DKV!\n\n​Sebagai bentuk rasa bangga dan terima kasih, para siswa DKV juga mempersembahkan kenang-kenangan spesial hasil karya mandiri mereka, berupa ilustrasi digital dan kaos sablon DTF ( _Direct to Film_ ) khas DKV Tamsis Jetis. 🎨👕\n\n​Tak hanya itu, Bapak Wamen juga menyempatkan diri untuk meninjau persiapan dan fasilitas program Makan Bergizi Gratis (MBG) di sekolah kami. 🍱\n\n​Terima kasih atas kunjungan, arahan, dan motivasinya, Bapak Wamen! Dukungan ini menjadi suntikan semangat bagi kami untuk terus maju sebagai SMK Pusat Keunggulan yang melahirkan lulusan berdaya saing global. 🚀\n\n​Bagaimana keseruan kunjungan Pak Wamen? Yuk, intip keseruannya di vlog singkat ini! \n\n​#SMKTamansiswaJetis #ditpsmk_kemdikbud #kemdikdasmen #AtipLatipulhayat #MakanBergiziGratis SMKBisaSMKHebat SMKMendunia VlogSekolah MerdekaBelajar",
+      "text": "SATU LANGKAH, SATU TANTANGAN, SATU KESEMPATAN UNTUK MEMBUKTIKAN KEMAMPUAN\n\nSMP Taman Dewasa Jetis Yogyakarta melaksanakan Asesmen Sumatif Tengah Semester (ASTS) Ganjil dengan memanfaatkan teknologi digital melalui aplikasi Geschool 💻📱\n\n#daerahistimewayogyakarta \n#tamansiswa \n#spmb2027smp\n#smptamandewasajetis \n#indonesia",
       "type": 1,
       "user": {
-        "fbid_v2": "17841425230888204",
-        "full_name": "SMK TAMANSISWA JETIS OFFICIAL",
-        "id": "25345633029",
+        "fbid_v2": "17841406815068219",
+        "full_name": "SMP Taman Dewasa Jetis Jogja",
+        "id": "6945755168",
         "is_private": false,
         "is_unpublished": false,
         "is_verified": false,
-        "profile_pic_id": "2819671068992503339",
-        "profile_pic_url": "https://scontent-bru2-1.cdninstagram.com/v/t51.2885-19/278831815_274211718253594_4344030877330905091_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NDcuYzIifQ&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGbKA1kFPsMDZMzVth3cjrJvEizvVDs03Ee9V6Y1JCWFdO7FdPcLyf_7YB0khiMyRM&_nc_ohc=9khkNife7YQQ7kNvwFATDu5&_nc_gid=xKl-1qbhDB74fesC_TnCkg&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GMeinhAaTA-kZPkAAAMYozgRGUk8bkULAAAB1501500j-ccb7-5&oh=00_AQJZ9vRqOHEmquwZD3BGNhnee1p0GDPzFJFUCfkQJyLTNg&oe=6AB1EDE4&_nc_sid=ee9879",
-        "username": "smktamsisjetis_yk"
+        "profile_pic_id": "2457320462711052036",
+        "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/129434888_119191293252002_8485522948592447142_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHlGU0pVO3yEC3Yt1mQeb8DLiESiVjPugPhOeYjCKYhdXiIx69F9Sw4RNUsZMohRgg&_nc_ohc=XbH13en3q9gQ7kNvwG50Yxs&_nc_gid=bnwY3UUskUttvlXZSmHE4g&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GAgFtwei0bFiZ2wAAKYuR9wposJ1bkULAAAB1501500j-ccb7-5&oh=00_AQIQaMHf6cWXufkrQ-lxUUaJ_yjP8JY2WaDI2E5RbVSC9A&oe=6AB26009&_nc_sid=ee9879",
+        "username": "smptamandewasajetisjogja"
       },
-      "user_id": "25345633029"
+      "user_id": "6945755168"
     },
-    "thumbnailUrl": "https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/702763144_18116313865841030_8940322193771463895_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=106&ig_cache_key=MzkwMTg2MjU5MzAxMDk1MDk3NDE4MTE2MzEzODU5ODQxMDMw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjU0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=XaXiZC76yg8Q7kNvwEMCMGm&_nc_oc=Adr5NuXk_dlDIGA-8ACfHQpUQ1SuMKOd9RMtryWNkqj3bxk8C7gVZt8WIN_bUY_n2xA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=xKl-1qbhDB74fesC_TnCkg&_nc_ss=7a3ba&oh=00_AQJfEwoR5KWhTl7fEToBU7u3vCqU5yBdTsIur_BsTDveqg&oe=6AB1B9D4",
+    "thumbnailUrl": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/808109687_18383117260227169_4618893058275492544_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=105&ig_cache_key=Mzk4NzM1NTQ1NDk4Njk0NTY3NTE4MzgzMTE3MjU3MjI3MTY5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=A-pXsEMpI-QQ7kNvwHmkJQP&_nc_oc=Adp_mfoDbPbo9yXxXV6MNbs-KFk56mbi1Ldo2PXY7uSOt5hmYcS9O8YwuWlkzC5LQDQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&oh=00_AQIfGufPYUWrki2aRHV3Df1bubLGHF-d4UGuRcN-faVzdQ&oe=6AB247FB",
     "isVideo": true,
-    "videoUrl": "https://scontent-bru2-1.cdninstagram.com/o1/v/t2/f2/m86/AQPgy0Rhc-haSSxzQMP02GYWuNz07v6NKGbsGaUzPeHRsMAmoPim2SBM_JpbSAp5ElTDg8jGt7wFcWPjfe4wRDoymda9vTfb1w6SlFY.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_ohc=ruNEqlq83jgQ7kNvwFYE2gS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjA2MDUyNjg2MTU2NjE2MywiYXNzZXRfYWdlX2RheXMiOjExOSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=9b2bc712c4966a3b&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83MzRGQ0FCQjJCQUM5OEQwODVENzI4QTBFMkE0MkNCNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzI2NDc1NDI4QTRGM0I4RTQ5QTg0OTQ4RERGNjc5MzlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACamg5K6uYKpBxUCKAJDMywXQEEVP3ztkWgYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=xKl-1qbhDB74fesC_TnCkg&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQLHKlXTWLiDTPTK4dpu4IdQqxlJNYzfHNJKy4GooLruig&oe=6AADCE0B",
-    "likesCount": 53,
-    "commentsCount": 1,
-    "postUrl": "https://www.instagram.com/p/DYmM1r6zWM-/",
-    "timestamp": "2026-05-21T10:16:28+00:00"
-  },
-  {
-    "id": "3900420384290063163",
-    "type": "Image",
-    "caption": {
-      "created_at": 1779186369,
-      "created_at_utc": 1779186369,
-      "did_report_as_spam": false,
-      "hashtags": [
-        "#smkbisa",
-        "#smkhebat",
-        "#smktamsisjetis"
-      ],
-      "id": "3900420384290063163",
-      "is_covered": false,
-      "is_ranked_comment": false,
-      "mentions": [
-        "@lpk.horensoindonesia"
-      ],
-      "private_reply_status": 0,
-      "share_enabled": false,
-      "text": "Pemberangkatan Peserta Magang ke Jepang bersama @lpk.horensoindonesia atas nama Muhammad Abdurrokhim. Selamat dan Sukses !\n\n#smkbisa #smkhebat #smktamsisjetis",
-      "type": 1,
-      "user": {
-        "fbid_v2": "17841425230888204",
-        "full_name": "SMK TAMANSISWA JETIS OFFICIAL",
-        "id": "25345633029",
-        "is_private": false,
-        "is_unpublished": false,
-        "is_verified": false,
-        "profile_pic_id": "2819671068992503339",
-        "profile_pic_url": "https://scontent-bru2-1.cdninstagram.com/v/t51.2885-19/278831815_274211718253594_4344030877330905091_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NDcuYzIifQ&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGbKA1kFPsMDZMzVth3cjrJvEizvVDs03Ee9V6Y1JCWFdO7FdPcLyf_7YB0khiMyRM&_nc_ohc=9khkNife7YQQ7kNvwFATDu5&_nc_gid=xKl-1qbhDB74fesC_TnCkg&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GMeinhAaTA-kZPkAAAMYozgRGUk8bkULAAAB1501500j-ccb7-5&oh=00_AQJZ9vRqOHEmquwZD3BGNhnee1p0GDPzFJFUCfkQJyLTNg&oe=6AB1EDE4&_nc_sid=ee9879",
-        "username": "smktamsisjetis_yk"
-      },
-      "user_id": "25345633029"
-    },
-    "thumbnailUrl": "https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/702611561_18116031625841030_6130084479355465474_n.webp?_nc_cat=100&ig_cache_key=MzkwMDQyMDM4NDI5MDA2MzE2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QeGiyGpc7uwQ7kNvwGZHHT6&_nc_oc=AdqSKIZanoFa2QXWJOgh6a5c4wRtNlvGHSrSajAxHDOaFnOxbKOgTxq1wufQDo2XGRM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=xKl-1qbhDB74fesC_TnCkg&_nc_ss=7a3ba&oh=00_AQKD0_18or7yhsM07NRQhHdEkisVhzukd1ypi6bzVGO3qw&oe=6AB1ED8C",
-    "isVideo": false,
-    "videoUrl": null,
-    "likesCount": 36,
+    "videoUrl": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQP8reoi8UevqDzrOFoiKm-Uf5F9rs3uMVvbpXjnv7foxj8q8Q8Hp2fZOGH1Uk2L88Rqvp4IVKBbrkbt3g71YY1dbogBVCqyYb6Pc9Y.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=9ljx_THAsYMQ7kNvwE7Npua&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjgxODA1Mjc0OTQ4OTAxMzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ac85206c039d09c3&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85OTQwRjRFNEIzREEyMTFBMEUyQTc5NUZCRjExQjlBQl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzU1NEYxNDM0RTI4NjJFMjA0RjA2NkE5RDFCMzhDQUE4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACakitSuy4KPZBUCKAJDMywXQEMd0vGp--cYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQLNkEte-Yl3FdefCYkycxzEXLAQm7lmUwLOwnVU-00zTQ&oe=6AAE3FC4",
+    "likesCount": 72,
     "commentsCount": 0,
-    "postUrl": "https://www.instagram.com/p/DYhE6yYTUM7/",
-    "timestamp": "2026-05-19T10:26:08+00:00"
+    "postUrl": "https://www.instagram.com/p/DdV7qkPtoSL/",
+    "timestamp": "2026-09-16T09:11:48+00:00"
   },
   {
-    "id": "3811141738694783894",
+    "id": "3985634253261631485",
     "type": "Video",
     "caption": {
-      "created_at": 1768544310,
-      "created_at_utc": 1768544310,
+      "created_at": 1789344749,
+      "created_at_utc": 1789344749,
       "did_report_as_spam": false,
-      "has_translation": true,
-      "hashtags": [
-        "#JakartaSmartCity",
-        "#JAKI",
-        "#JakartaKini",
-        "#JakartaKotaGlobal"
-      ],
-      "id": "3811141738694783894",
+      "hashtags": [],
+      "id": "3985634253261631485",
       "is_covered": false,
       "is_ranked_comment": false,
       "mentions": [],
       "private_reply_status": 0,
       "share_enabled": false,
-      "text": "Mau tahu serunya kunjungan ke Jakarta Smart City? 🎉\n\nRekap pekan ini, JSCTroops berkenalan dan berdiskusi bersama perwakilan Pemerintah Kota Palembang dan para pelajar yang antusias untuk mencari tau tentang digitalisasi layanan publik, peran data, serta bagaimana JAKI mendukung kebutuhan warga Jakarta sehari-hari.\n\nGimana kesan mereka selama berkunjung? Cek video berikut ini! 🎥\n\nPenasaran dan ingin berkunjung juga? Ajukan melalui: https://smartcity.jakarta.go.id/id/kunjungan/\n\n_______\nWant to know what happened during this week’s Jakarta Smart City visit? 🎉\n\nThis week’s recap: JSCTroops held discussions with representatives of Palembang City Government, exploring public service digitalization, the role of data, and how JAKI supports the everyday needs of Jakarta’s residents.\nWhat were their impressions during the visit? Check out these videos! 🎥\n\nInterested in visiting too?  Apply through https://smartcity.jakarta.go.id/id/kunjungan/ \n\n#JakartaSmartCity #JAKI #JakartaKini #JakartaKotaGlobal",
-      "text_translation": "Want to know the excitement of a visit to Jakarta Smart City? 🎉\n\nRecap of this week, JSCTroops got to know and discuss with representatives of Palembang City Government and students who are enthusiastic to find out about digitalization of public service, the role of data, and how JAKI supports the needs of Jakarta's everyday citizens.\n\nHow did they impress during the visit? Check out the following video! 🎥\n\nCurious and want to visit too? Apply via: https://smartcity.jakarta.go.id/id/kunjungan/\n\n _______ \n Want to know what happened during this week’s Jakarta Smart City visit? 🎉 \n\n This week’s recap: JSCTroops held discussions with representatives of Palembang City Government, exploring public service digitalization, the role of data, and how JAKI supports the everyday needs of Jakarta’s residents. \n What were their impressions during the visit? Check out these videos! 🎥 \n\n Interested in visiting too? Apply through https://smartcity.jakarta.go.id/id/kunjungan/ \n\n #JakartaSmartCity #JAKI #JakartaKini #JakartaKotaGlobal",
+      "text": "Salam dan Bahagia, Semangat untuk hari ini anak-anak Hebat selamat berjuang!",
       "type": 1,
       "user": {
-        "fbid_v2": "17841402083934568",
-        "full_name": "Jakarta Smart City",
-        "id": "2036549464",
+        "fbid_v2": "17841406815068219",
+        "full_name": "SMP Taman Dewasa Jetis Jogja",
+        "id": "6945755168",
         "is_private": false,
         "is_unpublished": false,
-        "is_verified": true,
-        "profile_pic_id": "2278216083582387355",
-        "profile_pic_url": "https://scontent-bru2-1.cdninstagram.com/v/t51.2885-19/92185900_201556774478714_3069513461735096320_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGbKA1kFPsMDZMzVth3cjrJvEizvVDs03Ee9V6Y1JCWFdO7FdPcLyf_7YB0khiMyRM&_nc_ohc=-hGI5nxmL2MQ7kNvwHp9102&_nc_gid=xKl-1qbhDB74fesC_TnCkg&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GCylfgV64-GXULcAAAAAAAA7GpkqbkULAAAB1501500j-ccb7-5&oh=00_AQIcXkq_z0C_JhXA8d1H3LM3o6Fe4tSFAtPVvEfDeZ-0DQ&oe=6AB1C221&_nc_sid=ee9879",
-        "username": "jsclab"
+        "is_verified": false,
+        "profile_pic_id": "2457320462711052036",
+        "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/129434888_119191293252002_8485522948592447142_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHlGU0pVO3yEC3Yt1mQeb8DLiESiVjPugPhOeYjCKYhdXiIx69F9Sw4RNUsZMohRgg&_nc_ohc=XbH13en3q9gQ7kNvwG50Yxs&_nc_gid=bnwY3UUskUttvlXZSmHE4g&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GAgFtwei0bFiZ2wAAKYuR9wposJ1bkULAAAB1501500j-ccb7-5&oh=00_AQIQaMHf6cWXufkrQ-lxUUaJ_yjP8JY2WaDI2E5RbVSC9A&oe=6AB26009&_nc_sid=ee9879",
+        "username": "smptamandewasajetisjogja"
       },
-      "user_id": "2036549464"
+      "user_id": "6945755168"
     },
-    "thumbnailUrl": "https://scontent-bru2-1.cdninstagram.com/v/t51.71878-15/616230255_1940541836841250_7107529243476235510_n.jpg?stp=dst-jpg_e15_p360x360_tt6&_nc_cat=111&ig_cache_key=MzgxMTE0MTczODY5NDc4Mzg5NDEwNDgwODk5MTc0OTg4NDQ%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=DzDV33jaZWoQ7kNvwH560vd&_nc_oc=AdqsCddBh2FmAhgvD3gm_ZcoHx7--GpSNzulLdF8T5ve1YWP7qmDPuNWGtnCQwztDrk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=xKl-1qbhDB74fesC_TnCkg&_nc_ss=7a3ba&oh=00_AQIpZvZEubHlZrD56Pp1OSs2ctzuG7tmDALX_N_0NAa6Jg&oe=6AB1DFF8",
+    "thumbnailUrl": "https://scontent-arn2-1.cdninstagram.com/v/t51.71878-15/808535574_1394631839439431_4271749135290458782_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=106&ig_cache_key=Mzk4NTYzNDI1MzI2MTYzMTQ4NTk1MTU2NTc1MDY2ODg0Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=DaVtOJxAs-gQ7kNvwHWG4ig&_nc_oc=Adp-k_3-A8Fc7biyduBJOUTBvGlUTOOtSwEwr5jfubXyprAkU_yCsbZdNLt2aw-lKrw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&oh=00_AQKr4c_ZVNh29zHa6YKuoLgxGHSpHS_GhXFtZX4KXmClrQ&oe=6AB24F21",
     "isVideo": true,
-    "videoUrl": "https://scontent-bru2-1.cdninstagram.com/o1/v/t16/f2/m69/AQPpKI4EI1-4X20EKaYNNaYQst25dxbCBunmHmpwMoSo0g5UPB_YH1DEUWbF0PQLFPjB4y30rgF3nbJtu5JLCEkQ.mp4?strext=1&_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_ohc=4dSVMNih5xQQ7kNvwH-YhsP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTA0ODA4NDAzMDgzMjc2NiwiYXNzZXRfYWdlX2RheXMiOjI0NCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjY0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ebc075e2b2fbd540&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRzVjekNTckxjYWVzQmtEQVBMc1E0V0NSYkVzYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzlBNEMyOEM5NkQwMTFCN0QyNTU1Qjk5QkQ5Mzc4NzkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8gdLFws7cAxUCKAJDMywXQFAj1wo9cKQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=xKl-1qbhDB74fesC_TnCkg&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQI6DZYf72Ff8J3k4ZlO1TYijM0fiR8XjjeEGOPcA2yfVg&oe=6AB1C35A",
+    "videoUrl": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQM9ARxbngMCBiGcTsjPTq__QdeP4cGj8gG6c_hLUoabDm0r2KKz8r428MHL7zCBA2Kp8vXqNGOjKkRxgTgGSIW9eLZkZbdt33OM3QU.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=7odx3nWhCfYQ7kNvwG9jj8g&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzE2LmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6OTUxNTY0ODc0MDAyMjY3LCJhc3NldF9hZ2VfZGF5cyI6MywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4790fc69b9866bf&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84QjQ1ODYwMUY1QjZCMTk5MzIxMzI5Q0E3RjU5MTk5NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzcyNDBBODIyMTg0NDhCM0U4OTE4OEEwNDAzNEJBNkJCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa2vd3krtywAxUCKAJDMywXQCQhysCDEm8YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQJrS-5OBbq5UOyebC-iUPkIK8Q5q0lHZ3sp2jDLswgU2Q&oe=6AAE4F3E",
+    "likesCount": 26,
+    "commentsCount": 0,
+    "postUrl": "https://www.instagram.com/p/DdP0TyOSe_9/",
+    "timestamp": "2026-09-14T00:12:31+00:00"
+  },
+  {
+    "id": "3977334984639217012",
+    "type": "Video",
+    "caption": {
+      "created_at": 1788355342,
+      "created_at_utc": 1788355342,
+      "did_report_as_spam": false,
+      "has_translation": true,
+      "hashtags": [],
+      "id": "3977334984639217012",
+      "is_covered": false,
+      "is_ranked_comment": false,
+      "mentions": [],
+      "private_reply_status": 0,
+      "share_enabled": false,
+      "text": "Good Job for Today guys !",
+      "type": 1,
+      "user": {
+        "fbid_v2": "17841406815068219",
+        "full_name": "SMP Taman Dewasa Jetis Jogja",
+        "id": "6945755168",
+        "is_private": false,
+        "is_unpublished": false,
+        "is_verified": false,
+        "profile_pic_id": "2457320462711052036",
+        "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/129434888_119191293252002_8485522948592447142_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHlGU0pVO3yEC3Yt1mQeb8DLiESiVjPugPhOeYjCKYhdXiIx69F9Sw4RNUsZMohRgg&_nc_ohc=XbH13en3q9gQ7kNvwG50Yxs&_nc_gid=bnwY3UUskUttvlXZSmHE4g&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GAgFtwei0bFiZ2wAAKYuR9wposJ1bkULAAAB1501500j-ccb7-5&oh=00_AQIQaMHf6cWXufkrQ-lxUUaJ_yjP8JY2WaDI2E5RbVSC9A&oe=6AB26009&_nc_sid=ee9879",
+        "username": "smptamandewasajetisjogja"
+      },
+      "user_id": "6945755168"
+    },
+    "thumbnailUrl": "https://scontent-arn2-1.cdninstagram.com/v/t51.71878-15/791335628_1080864457755365_6029623734511596244_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=105&ig_cache_key=Mzk3NzMzNDk4NDYzOTIxNzAxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=rSSfWIIyD6UQ7kNvwHHzZ6M&_nc_oc=Adrcl9tUqpri_1q1x86l0n95vVEBm9aI9VOrFA9UIggSEmFYxLeWHq3yTmS3Xtcz1v8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&oh=00_AQIsqAt80_oHX8RhMmNFwwdeK7G5DFO15ytJMvBQUwx1Bg&oe=6AB265A8",
+    "isVideo": true,
+    "videoUrl": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQPkQZVfw7NyOvsiQoaVKLnZcyORgaX5tw5Qy-mKDjdGSf0f_NvhXsZ4AE3dLStWcEpYRcET7JdCtXgTSN3_tapdl3Y9Zrvnhx1Gp3w.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=N8D8xaZ3GB4Q7kNvwHs1Vj0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzE2LmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTA5OTkwNjg3OTE1MTI5NywiYXNzZXRfYWdlX2RheXMiOjE1LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=2f903522e44f7a46&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84NzQxNTlBQzlCNEIxRUE4QzY4ODA4QkU5ODA2RjFBQl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQyNDRGMjRDNUE4MkNEQzU0OUY2MjBDMzVBRkQyQ0FEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaC84rtgJf0AxUCKAJDMywXQBQhysCDEm8YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQKPyYD0xW1WWlbw9tXdUSVn582czL9RmWPC5evCSIbWGg&oe=6AAE48EE",
     "likesCount": 39,
     "commentsCount": 0,
-    "postUrl": "https://www.instagram.com/p/DTj5TgTkTOW/",
-    "timestamp": "2026-01-16T06:18:28+00:00"
+    "postUrl": "https://www.instagram.com/p/DcyVRiAJ310/",
+    "timestamp": "2026-09-02T13:22:23+00:00"
   },
   {
-    "id": "3808845861611631398",
-    "type": "Carousel",
+    "id": "3971118962553077390",
+    "type": "Video",
     "caption": {
-      "created_at": 1768269832,
-      "created_at_utc": 1768269832,
+      "created_at": 1787614346,
+      "created_at_utc": 1787614346,
       "did_report_as_spam": false,
       "hashtags": [
-        "#smktamansiswajetis",
-        "#smkbisa",
-        "#smkhebat",
-        "#kunjunganindustri"
+        "#maulidnabi",
+        "#smptamandewasajetisyogyakarta",
+        "#smptamandewasajetisjogja"
       ],
-      "id": "3808845861611631398",
+      "id": "3971118962553077390",
       "is_covered": false,
       "is_ranked_comment": false,
-      "mentions": [
-        "@supertour.id",
-        "@anggy_transport_jogja"
-      ],
+      "mentions": [],
       "private_reply_status": 0,
       "share_enabled": false,
-      "text": "Kunjungan Industri SMK Tamansiswa Jetis bersama @supertour.id dan @anggy_transport_jogja dengan tujuan Jakarta - Bandung\n\nselamat belajar sekaligus bertamasya, Sobat Dewantara ! 🔥\n\n#smktamansiswajetis #smkbisa #smkhebat #kunjunganindustri",
+      "text": "Salam dan Bahagia, berikut kita sajikan dokumentasi kegiatan Pengajian Maulid Nabi SAW\n.\n.\nYuk kita simak!\n.\n#maulidnabi \n#smptamandewasajetisyogyakarta \n#smptamandewasajetisjogja",
       "type": 1,
       "user": {
-        "fbid_v2": "17841425230888204",
-        "full_name": "SMK TAMANSISWA JETIS OFFICIAL",
-        "id": "25345633029",
+        "fbid_v2": "17841406815068219",
+        "full_name": "SMP Taman Dewasa Jetis Jogja",
+        "id": "6945755168",
         "is_private": false,
         "is_unpublished": false,
         "is_verified": false,
-        "profile_pic_id": "2819671068992503339",
-        "profile_pic_url": "https://scontent-bru2-1.cdninstagram.com/v/t51.2885-19/278831815_274211718253594_4344030877330905091_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NDcuYzIifQ&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGbKA1kFPsMDZMzVth3cjrJvEizvVDs03Ee9V6Y1JCWFdO7FdPcLyf_7YB0khiMyRM&_nc_ohc=9khkNife7YQQ7kNvwFATDu5&_nc_gid=xKl-1qbhDB74fesC_TnCkg&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GMeinhAaTA-kZPkAAAMYozgRGUk8bkULAAAB1501500j-ccb7-5&oh=00_AQJZ9vRqOHEmquwZD3BGNhnee1p0GDPzFJFUCfkQJyLTNg&oe=6AB1EDE4&_nc_sid=ee9879",
-        "username": "smktamsisjetis_yk"
+        "profile_pic_id": "2457320462711052036",
+        "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/129434888_119191293252002_8485522948592447142_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHlGU0pVO3yEC3Yt1mQeb8DLiESiVjPugPhOeYjCKYhdXiIx69F9Sw4RNUsZMohRgg&_nc_ohc=XbH13en3q9gQ7kNvwG50Yxs&_nc_gid=bnwY3UUskUttvlXZSmHE4g&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GAgFtwei0bFiZ2wAAKYuR9wposJ1bkULAAAB1501500j-ccb7-5&oh=00_AQIQaMHf6cWXufkrQ-lxUUaJ_yjP8JY2WaDI2E5RbVSC9A&oe=6AB26009&_nc_sid=ee9879",
+        "username": "smptamandewasajetisjogja"
       },
-      "user_id": "25345633029"
+      "user_id": "6945755168"
     },
-    "thumbnailUrl": "https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/612448029_18103161799841030_4484556125869229401_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=MzgwODg0NTg0NzM1MDk5NjkwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=qCL8VKKKbjEQ7kNvwFfKSAF&_nc_oc=AdpCh9rWknU3rElH2hW2Y7QQlJ2GMaMU9Zoh5iw3S2a5b9bgfHq9-zl-_l-py2rAALM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=xKl-1qbhDB74fesC_TnCkg&_nc_ss=7a3ba&oh=00_AQKuQvrowklRb8JtmFiDFhnmqvKI1xlTxuCzJxF7dsXmoA&oe=6AB1E12D",
-    "isVideo": false,
-    "videoUrl": null,
-    "likesCount": 98,
-    "commentsCount": 4,
-    "postUrl": "https://www.instagram.com/p/DTbvSGJk_Mm/",
-    "timestamp": "2026-01-13T02:03:50+00:00"
+    "thumbnailUrl": "https://scontent-arn2-1.cdninstagram.com/v/t51.71878-15/786035677_1987986091908995_937222331349809422_n.jpg?stp=dst-jpg_e15_p360x360_tt6&_nc_cat=107&ig_cache_key=Mzk3MTExODk2MjU1MzA3NzM5MDEwODYwMTM3MjA3NzI4MjQ%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=_152qDa4o00Q7kNvwHw-UaR&_nc_oc=AdoQ3DzkcoRO6wu_S2V_3tVFiNbzaBJIPrjfSyH5rJ1kKIyHqEz_sYVoIeThGeJGl8o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&oh=00_AQK8oSME9iT8YJcsgt2r6y6odVBBU0-byy6Xy4x9Wz4MAQ&oe=6AB2328B",
+    "isVideo": true,
+    "videoUrl": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQM_Wd_2azdjdSds436RSLFRQY_j6XNurEzn5bXff9R-B00L7eRB3UZuxYfHeBxjsOHD2vDeoP4scYvwXMI-WkivZCW2u_9b3o2jcdw.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=-QrGEFmQreQQ7kNvwF0W-OD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTA4NjAxMjg3NDEwNjI0MiwiYXNzZXRfYWdlX2RheXMiOjI0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=b139b48467c5362b&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84QjQ0MUU5NDQ2RTIzNjk4QzI3OUE2QkY2NjlFQkY4NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0ZFNEI3MTQwMDQ1OTc0MDQwNjAwNjQ3NTNGQTJBRDhEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaElqm5ou7tAxUCKAJDMywXQDZdsi0OVgQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQLkUYkSRUOj0aGtCmtJy7IFQwl73yzJJ2QIoI2QHL4j6g&oe=6AAE57A1",
+    "likesCount": 69,
+    "commentsCount": 0,
+    "postUrl": "https://www.instagram.com/p/DccP6gTyz6O/",
+    "timestamp": "2026-08-24T23:32:27+00:00"
   },
   {
-    "id": "3759766743238825322",
-    "type": "Carousel",
+    "id": "3970793247936948799",
+    "type": "Image",
     "caption": {
-      "created_at": 1768268842,
-      "created_at_utc": 1768268842,
+      "created_at": 1787575466,
+      "created_at_utc": 1787575466,
+      "did_report_as_spam": false,
+      "has_translation": true,
+      "hashtags": [],
+      "id": "3970793247936948799",
+      "is_covered": false,
+      "is_ranked_comment": false,
+      "mentions": [],
+      "private_reply_status": 0,
+      "share_enabled": false,
+      "text": "Salam dan Bahagia berikutnya merupakan Dokumentasi kegiatan hari ini.\n.\nFKUB Goes to School \nDiikuti 3 siswa/i : Kak Rafa, Kak Kevin, KakAjeng.\nPendamping : Nyi Yuni Mutiarani Prastiwi\nSalam🙏🏻",
+      "type": 1,
+      "user": {
+        "fbid_v2": "17841406815068219",
+        "full_name": "SMP Taman Dewasa Jetis Jogja",
+        "id": "6945755168",
+        "is_private": false,
+        "is_unpublished": false,
+        "is_verified": false,
+        "profile_pic_id": "2457320462711052036",
+        "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/129434888_119191293252002_8485522948592447142_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHlGU0pVO3yEC3Yt1mQeb8DLiESiVjPugPhOeYjCKYhdXiIx69F9Sw4RNUsZMohRgg&_nc_ohc=XbH13en3q9gQ7kNvwG50Yxs&_nc_gid=bnwY3UUskUttvlXZSmHE4g&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GAgFtwei0bFiZ2wAAKYuR9wposJ1bkULAAAB1501500j-ccb7-5&oh=00_AQIQaMHf6cWXufkrQ-lxUUaJ_yjP8JY2WaDI2E5RbVSC9A&oe=6AB26009&_nc_sid=ee9879",
+        "username": "smptamandewasajetisjogja"
+      },
+      "user_id": "6945755168"
+    },
+    "thumbnailUrl": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/783830290_18379485538227169_4016691834420127456_n.webp?stp=dst-webp_p1080x1080_sh2.08&_nc_cat=111&ig_cache_key=Mzk3MDc5MzI0NzkzNjk0ODc5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=XI51XNSdEUQQ7kNvwF_PoXS&_nc_oc=AdqrdKmZ44m-pzF_37cduxjLxf69-GNlgbqBNvZ_-SH0UTCh2Di24ik_9gMXbTOhG8c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&oh=00_AQKt4njJWlNIu0iWqZ5w74qDzw92Mn5d5X42Xp7yYQp6yw&oe=6AB24732",
+    "isVideo": false,
+    "videoUrl": null,
+    "likesCount": 29,
+    "commentsCount": 0,
+    "postUrl": "https://www.instagram.com/p/DcbF2u7zSo_/",
+    "timestamp": "2026-08-24T12:44:27+00:00"
+  },
+  {
+    "id": "3970791151464458571",
+    "type": "Image",
+    "caption": {
+      "created_at": 1787575216,
+      "created_at_utc": 1787575216,
+      "did_report_as_spam": false,
+      "has_translation": true,
+      "hashtags": [],
+      "id": "3970791151464458571",
+      "is_covered": false,
+      "is_ranked_comment": false,
+      "mentions": [],
+      "private_reply_status": 0,
+      "share_enabled": false,
+      "text": "Salam dan Bahagia, berikut dokumentasi kegiatan Jembatan Persahabatan di Balai Kota.\n.\nDi ikuti Kak Fatih dan Kak Tathit kelas 91 didampingi oleh Ki Ripsky Aji. Salam🙏",
+      "type": 1,
+      "user": {
+        "fbid_v2": "17841406815068219",
+        "full_name": "SMP Taman Dewasa Jetis Jogja",
+        "id": "6945755168",
+        "is_private": false,
+        "is_unpublished": false,
+        "is_verified": false,
+        "profile_pic_id": "2457320462711052036",
+        "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/129434888_119191293252002_8485522948592447142_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHlGU0pVO3yEC3Yt1mQeb8DLiESiVjPugPhOeYjCKYhdXiIx69F9Sw4RNUsZMohRgg&_nc_ohc=XbH13en3q9gQ7kNvwG50Yxs&_nc_gid=bnwY3UUskUttvlXZSmHE4g&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GAgFtwei0bFiZ2wAAKYuR9wposJ1bkULAAAB1501500j-ccb7-5&oh=00_AQIQaMHf6cWXufkrQ-lxUUaJ_yjP8JY2WaDI2E5RbVSC9A&oe=6AB26009&_nc_sid=ee9879",
+        "username": "smptamandewasajetisjogja"
+      },
+      "user_id": "6945755168"
+    },
+    "thumbnailUrl": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/785281251_18379485217227169_8338348781009859624_n.webp?stp=dst-webp_p1080x1080_sh2.08&_nc_cat=104&ig_cache_key=Mzk3MDc5MTE1MTQ2NDQ1ODU3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=tnbOsRtSfuMQ7kNvwFg7Su8&_nc_oc=AdoB6c99mCo4dKY0OLddqWSpf23-iTOAaMw7LXPoObQJiKqdx9Mp6vBi202ESrumP4A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&oh=00_AQK4QGZ5LVcu-j_3CfdRbOlj74ET0_pGBdXlm8Tzqt_cnA&oe=6AB2569C",
+    "isVideo": false,
+    "videoUrl": null,
+    "likesCount": 28,
+    "commentsCount": 0,
+    "postUrl": "https://www.instagram.com/p/DcbFYOcTalL/",
+    "timestamp": "2026-08-24T12:40:17+00:00"
+  },
+  {
+    "id": "3970572504460385914",
+    "type": "Video",
+    "caption": {
+      "created_at": 1787549534,
+      "created_at_utc": 1787549534,
+      "did_report_as_spam": false,
+      "hashtags": [
+        "#lomba17agustus",
+        "#smptamansiswajetisjogja",
+        "#smptamandewasajetisjogja"
+      ],
+      "id": "3970572504460385914",
+      "is_covered": false,
+      "is_ranked_comment": false,
+      "mentions": [
+        "@smptamandewasajetisjogja"
+      ],
+      "private_reply_status": 0,
+      "share_enabled": false,
+      "text": "Salam dan Bahagia,\nHallo semua.. kali ini kita liat yuk keseruan siswa-siswa @smptamandewasajetisjogja  ikut meramaikan kegiatan lomba 17 Agustus HUT RI Ke-81. Yuk cek keseruannya\n\n#lomba17agustus \n#smptamansiswajetisjogja \n#smptamandewasajetisjogja",
+      "type": 1,
+      "user": {
+        "fbid_v2": "17841406815068219",
+        "full_name": "SMP Taman Dewasa Jetis Jogja",
+        "id": "6945755168",
+        "is_private": false,
+        "is_unpublished": false,
+        "is_verified": false,
+        "profile_pic_id": "2457320462711052036",
+        "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/129434888_119191293252002_8485522948592447142_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHlGU0pVO3yEC3Yt1mQeb8DLiESiVjPugPhOeYjCKYhdXiIx69F9Sw4RNUsZMohRgg&_nc_ohc=XbH13en3q9gQ7kNvwG50Yxs&_nc_gid=bnwY3UUskUttvlXZSmHE4g&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GAgFtwei0bFiZ2wAAKYuR9wposJ1bkULAAAB1501500j-ccb7-5&oh=00_AQIQaMHf6cWXufkrQ-lxUUaJ_yjP8JY2WaDI2E5RbVSC9A&oe=6AB26009&_nc_sid=ee9879",
+        "username": "smptamandewasajetisjogja"
+      },
+      "user_id": "6945755168"
+    },
+    "thumbnailUrl": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/784426226_18379438105227169_378984324565283551_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=105&ig_cache_key=Mzk3MDU3MjUwNDQ2MDM4NTkxNDE4Mzc5NDM4MDk2MjI3MTY5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=7elIZUgCSjwQ7kNvwHlT-d9&_nc_oc=AdrDWsB3sCZDN_iFh88UN76Sx-n55JeLaTEmlCp8_bhWpKkArB5CRasWFpUYnWjjMDY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&oh=00_AQKNVx-8Gr3taVg1s-DwTLpdjt0hHyFU5g7GH7LIui4QmQ&oe=6AB25CA1",
+    "isVideo": true,
+    "videoUrl": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMncLlQfPl5fUQv7XMiZXkfOkKkfXPkuB-dQlnv3L5Jg5GF8RZbkFx9-EJXQaiZAytz_NFO3gODy2bQTzF3siDdygBYlG-oz61XOnI.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=6DHUD--j_OYQ7kNvwF9tNnR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTA3MDY3NzE4OTMwMTQzMCwiYXNzZXRfYWdlX2RheXMiOjI0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=a0f6f0986588c3ab&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FQTQ0RkNBODkyREYxRDhEMjgyQkJEOURGMjQ3QkVCRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0M2NDk4RTYzQTMyNTA3RjkzQUFDOUY4MjJCOTVEMjkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbs0szYzvHmAxUCKAJDMywXQEPIcrAgxJwYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQI87PVTtGrfb6skiZmfEc451UrR7TQTbiSSsdsTvQtxjA&oe=6AAE4226",
+    "likesCount": 101,
+    "commentsCount": 0,
+    "postUrl": "https://www.instagram.com/p/DcaTqfjS156/",
+    "timestamp": "2026-08-24T05:32:15+00:00"
+  },
+  {
+    "id": "3966192947464725773",
+    "type": "Video",
+    "caption": {
+      "created_at": 1787027210,
+      "created_at_utc": 1787027210,
       "did_report_as_spam": false,
       "has_translation": true,
       "hashtags": [
-        "#UnrealEngine",
-        "#gamedev",
-        "#dkv",
-        "#smkhebat",
-        "#smktamansiswajetis"
+        "#spedetajuara",
+        "#smptamansiswajetisjogja",
+        "#carnival",
+        "#budaya",
+        "#17agustus"
       ],
-      "id": "3759766743238825322",
+      "id": "3966192947464725773",
       "is_covered": false,
       "is_ranked_comment": false,
       "mentions": [
-        "@kandi_ajhh",
-        "@unrealengine"
+        "@smptamandewasajetisjogja",
+        "@ppts.smptamandewasajetis_"
       ],
       "private_reply_status": 0,
       "share_enabled": false,
-      "text": "Pameran Gelar Karya Gelombang 4, Balai Besar Pengembangan Penjaminan Mutu Pendidikan Vokasi Seni dan Budaya (BBPPMPV Seni dan Budaya)\n\nIn Frame: Bapak Dirjen Pendidikan Vokasi, Pendidikan Khusus, dan Pendidikan Layanan Khusus, Bapak Tatang Muttaqin, S.Sos., M.Ed., Ph.D. bersama 3D Artist SMK Tamansiswa Jetis, @kandi_ajhh yang melakukan ujicoba prototype 3D environment yang dibuat menggunakan @unrealengine dan diakses menggunakan VR Headset\n\n#UnrealEngine #gamedev #dkv #smkhebat #smktamansiswajetis",
+      "text": "Salam dan Bahagia, \nKabar gembira nih kemarin baru saja siswa-siswi @smptamandewasajetisjogja berkolaborasi dengan @ppts.smptamandewasajetis_ berhasil membawa trophy Juara 2 Cokroadiningratan Culture Carnival tahun 2026.\n.\n.\nSelamat dan sukses\n.\n#spedetajuara \n#smptamansiswajetisjogja \n#carnival \n#budaya \n#17agustus",
       "type": 1,
       "user": {
-        "fbid_v2": "17841425230888204",
-        "full_name": "SMK TAMANSISWA JETIS OFFICIAL",
-        "id": "25345633029",
+        "fbid_v2": "17841406815068219",
+        "full_name": "SMP Taman Dewasa Jetis Jogja",
+        "id": "6945755168",
         "is_private": false,
         "is_unpublished": false,
         "is_verified": false,
-        "profile_pic_id": "2819671068992503339",
-        "profile_pic_url": "https://scontent-bru2-1.cdninstagram.com/v/t51.2885-19/278831815_274211718253594_4344030877330905091_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NDcuYzIifQ&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGbKA1kFPsMDZMzVth3cjrJvEizvVDs03Ee9V6Y1JCWFdO7FdPcLyf_7YB0khiMyRM&_nc_ohc=9khkNife7YQQ7kNvwFATDu5&_nc_gid=xKl-1qbhDB74fesC_TnCkg&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GMeinhAaTA-kZPkAAAMYozgRGUk8bkULAAAB1501500j-ccb7-5&oh=00_AQJZ9vRqOHEmquwZD3BGNhnee1p0GDPzFJFUCfkQJyLTNg&oe=6AB1EDE4&_nc_sid=ee9879",
-        "username": "smktamsisjetis_yk"
+        "profile_pic_id": "2457320462711052036",
+        "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/129434888_119191293252002_8485522948592447142_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHlGU0pVO3yEC3Yt1mQeb8DLiESiVjPugPhOeYjCKYhdXiIx69F9Sw4RNUsZMohRgg&_nc_ohc=XbH13en3q9gQ7kNvwG50Yxs&_nc_gid=bnwY3UUskUttvlXZSmHE4g&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GAgFtwei0bFiZ2wAAKYuR9wposJ1bkULAAAB1501500j-ccb7-5&oh=00_AQIQaMHf6cWXufkrQ-lxUUaJ_yjP8JY2WaDI2E5RbVSC9A&oe=6AB26009&_nc_sid=ee9879",
+        "username": "smptamandewasajetisjogja"
       },
-      "user_id": "25345633029"
+      "user_id": "6945755168"
     },
-    "thumbnailUrl": "https://scontent-bru2-1.cdninstagram.com/v/t39.30808-6/577062218_1234502918698777_6545779957154040545_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1OTc2NjcyNDU5OTM0MTE1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=XS7lCddXeJoQ7kNvwHgPs9w&_nc_oc=AdqIZHJHGjWwZA-FOwPgBN79yz3p1q-BWnIYd7muzMdZX49U1vDdciGOJOgQ5KgcSjc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=xKl-1qbhDB74fesC_TnCkg&_nc_ss=7a3ba&oh=00_AQJMQf_QLOjIHl80vlREMnWAXE_MfgA4khQyUZnAe2Oozg&oe=6AB1E9B0",
-    "isVideo": false,
-    "videoUrl": null,
+    "thumbnailUrl": "https://scontent-arn2-1.cdninstagram.com/v/t51.71878-15/775244176_2223477925243310_3282510754807950084_n.jpg?stp=dst-jpg_e15_p360x360_tt6&_nc_cat=109&ig_cache_key=Mzk2NjE5Mjk0NzQ2NDcyNTc3Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=mcCJOcif-t8Q7kNvwEWShzU&_nc_oc=AdrR-7LwC_21PoxqlZpiLXKyT-S6-ztBrVQk8ueYLg94iHvHl1MG360muAiZw95x9-A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&oh=00_AQIldua5OmChIYZcAar5-1M5sJCMxH_kck_L0Bm_aWQICQ&oe=6AB24B45",
+    "isVideo": true,
+    "videoUrl": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQNaXBubJdtH3mTjyRlxOcoIktwU8zSBHHAvadfdNjZtXXc9GSSkq14CbtGbauPAE1o54WJY2S5lnt_WlTk2EsJGPAIEi-DbwmHcSbM.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=oMes6T5Z6_YQ7kNvwFoI2lG&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTYwMTgzODc3NDYxMTMwMiwiYXNzZXRfYWdlX2RheXMiOjMwLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=82698a95edae3f1e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9EQzRCMTU5NkM5OTYzOTYyNUVGOTFCNjMyODFGNDNBNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0EyNDYyRThFQjNENkNEMTZCOEU1MDY2NUQ0NEUwNDg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbMta_ypLfYBRUCKAJDMywXQBQhysCDEm8YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQIWIR-8hhaMIg0W5QqUNU3PX7OArmHw3HUf0yjxKSuX9w&oe=6AAE5B9D",
     "likesCount": 72,
-    "commentsCount": 6,
-    "postUrl": "https://www.instagram.com/p/DQtX-7RE9Vq/",
-    "timestamp": "2025-11-06T08:52:24+00:00"
+    "commentsCount": 5,
+    "postUrl": "https://www.instagram.com/p/DcKv3jQS2UN/",
+    "timestamp": "2026-08-18T04:26:51+00:00"
+  },
+  {
+    "id": "3958229153388159022",
+    "type": "Video",
+    "caption": {
+      "created_at": 1786077890,
+      "created_at_utc": 1786077890,
+      "did_report_as_spam": false,
+      "has_translation": true,
+      "hashtags": [
+        "#lingkungan",
+        "#smptamandewasajetisjogja",
+        "#smptdjetisyk",
+        "#Yogyakarta"
+      ],
+      "id": "3958229153388159022",
+      "is_covered": false,
+      "is_ranked_comment": false,
+      "mentions": [
+        "@smptamandewasajetisjogja"
+      ],
+      "private_reply_status": 0,
+      "share_enabled": false,
+      "text": "Salam dan Bahagia,\n.\nNah halo semua... Kali ini kita liat yuk keseruan siswa-siswi @smptamandewasajetisjogja ikut serta menyemarakkan kegiatan Gerakan Yogyakarta ASRI \n.\n.\n#lingkungan \n#smptamandewasajetisjogja \n#smptdjetisyk \n#Yogyakarta",
+      "type": 1,
+      "user": {
+        "fbid_v2": "17841406815068219",
+        "full_name": "SMP Taman Dewasa Jetis Jogja",
+        "id": "6945755168",
+        "is_private": false,
+        "is_unpublished": false,
+        "is_verified": false,
+        "profile_pic_id": "2457320462711052036",
+        "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/129434888_119191293252002_8485522948592447142_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHlGU0pVO3yEC3Yt1mQeb8DLiESiVjPugPhOeYjCKYhdXiIx69F9Sw4RNUsZMohRgg&_nc_ohc=XbH13en3q9gQ7kNvwG50Yxs&_nc_gid=bnwY3UUskUttvlXZSmHE4g&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GAgFtwei0bFiZ2wAAKYuR9wposJ1bkULAAAB1501500j-ccb7-5&oh=00_AQIQaMHf6cWXufkrQ-lxUUaJ_yjP8JY2WaDI2E5RbVSC9A&oe=6AB26009&_nc_sid=ee9879",
+        "username": "smptamandewasajetisjogja"
+      },
+      "user_id": "6945755168"
+    },
+    "thumbnailUrl": "https://scontent-arn2-1.cdninstagram.com/v/t51.71878-15/767190199_1034501289358091_4067248984850391871_n.jpg?stp=dst-jpg_e15_p360x360_tt6&_nc_cat=108&ig_cache_key=Mzk1ODIyOTE1MzM4ODE1OTAyMjE4MDUzMTk2MzQyMTQwMTA%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=_0Ps_KRLdm0Q7kNvwETquZz&_nc_oc=Adols-f2FMRvMVIdg0VfE5xxOteohm4kX8uZuTNW10Bv2P5pzQjsGWtAxeCwySuxP0Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&oh=00_AQIUEZcBkoHTDzi5ux4Is6oyYsCWONwCqg6CssDyVppl1g&oe=6AB2482E",
+    "isVideo": true,
+    "videoUrl": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQNsazQukeN27AqwPFTmSKVnLNi-vs-c-hgWV_yBjkflQzlNOBfpdtQRcq644b4YDYUaMgGycqTrxGjh8-eyoQWWZKmZxQWumJXqFN0.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=YFhEOPib3aIQ7kNvwF3oJBF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNTMxNzc1MDg4MDg2NSwiYXNzZXRfYWdlX2RheXMiOjQxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=2d7cf511693f0a66&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CMDRFOTc0NUU5OEE5MDJENjNEOTY4NUVCNkVCOUQ5OF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0UzNEEzMDFEODIwMUZDN0E3MjNDMzZGM0VEQzA2NUJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbC6fuzqfu0BhUCKAJDMywXQEJ3bItDlYEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQIxwSV0ecDekZ_1-eGnk1vLd7VJa2VgWFxd_L_GeeQDYg&oe=6AAE6176",
+    "likesCount": 86,
+    "commentsCount": 1,
+    "postUrl": "https://www.instagram.com/p/DbudHGDS-Au/",
+    "timestamp": "2026-08-07T04:44:52+00:00"
+  },
+  {
+    "id": "3953278777966571612",
+    "type": "Video",
+    "caption": {
+      "created_at": 1785487660,
+      "created_at_utc": 1785487660,
+      "did_report_as_spam": false,
+      "hashtags": [
+        "#jumatwage",
+        "#smptamansiswajetisjogja",
+        "#smptdjetisyk"
+      ],
+      "id": "3953278777966571612",
+      "is_covered": false,
+      "is_ranked_comment": false,
+      "mentions": [],
+      "private_reply_status": 0,
+      "share_enabled": false,
+      "text": "Hai Guys gimana Genre Hari Ini? Sudah siap jadi juara bulan ini? Yuk kita cek keseruannya\n.\n.\n#jumatwage\n#smptamansiswajetisjogja \n#smptdjetisyk",
+      "type": 1,
+      "user": {
+        "fbid_v2": "17841406815068219",
+        "full_name": "SMP Taman Dewasa Jetis Jogja",
+        "id": "6945755168",
+        "is_private": false,
+        "is_unpublished": false,
+        "is_verified": false,
+        "profile_pic_id": "2457320462711052036",
+        "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/129434888_119191293252002_8485522948592447142_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHlGU0pVO3yEC3Yt1mQeb8DLiESiVjPugPhOeYjCKYhdXiIx69F9Sw4RNUsZMohRgg&_nc_ohc=XbH13en3q9gQ7kNvwG50Yxs&_nc_gid=bnwY3UUskUttvlXZSmHE4g&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=GAgFtwei0bFiZ2wAAKYuR9wposJ1bkULAAAB1501500j-ccb7-5&oh=00_AQIQaMHf6cWXufkrQ-lxUUaJ_yjP8JY2WaDI2E5RbVSC9A&oe=6AB26009&_nc_sid=ee9879",
+        "username": "smptamandewasajetisjogja"
+      },
+      "user_id": "6945755168"
+    },
+    "thumbnailUrl": "https://scontent-arn2-1.cdninstagram.com/v/t51.71878-15/761293063_2074250210151277_454770325993286696_n.jpg?stp=dst-jpg_e15_p360x360_tt6&_nc_cat=107&ig_cache_key=Mzk1MzI3ODc3Nzk2NjU3MTYxMjI1NTU3MTA0NjE2MTEwMDk%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=pEpIaIouU64Q7kNvwEK37da&_nc_oc=AdrPUZdC1fWD4xvUQd9AxCTJRSFsoIn8fbaQrE44hc-o8GLyjzfTtd_eW95vT1XNkI8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&oh=00_AQJgzFRVAC-cSc2NVqhcvdYpWL9reLvELzSnz-dt-6ZOGA&oe=6AB25643",
+    "isVideo": true,
+    "videoUrl": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMXBG6TUYkbKi5KUN-A1Z2KqPl0bNSNIws3ySXCc0iWyeFYKbu6rzk8zy9AyVGRKIX20U_IsMeR9A_CI8XFqsxoMK20Zruh0wEEVYU.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=kfXOoZRjcVAQ7kNvwGYrpwj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjU1NTcwOTQzMTYxMTExMiwiYXNzZXRfYWdlX2RheXMiOjQ4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=d2f39a1fca856b46&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FNTQ4MkI3NjYzQ0UxQUNDQjdFRDkxNjdGRTdDMjk5N192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0VCNENDRkFERjZGQjRBRDg1RTcxNzlFODc3REQ4ODlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQ-4-N75mKCRUCKAJDMywXQEVd0vGp--cYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=bnwY3UUskUttvlXZSmHE4g&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQK4RPKUEwrGqmLpiuH-dlmvOxGA3YZvh5wFBp30hSQwBw&oe=6AAE632B",
+    "likesCount": 81,
+    "commentsCount": 3,
+    "postUrl": "https://www.instagram.com/p/Dbc3hpqybBc/",
+    "timestamp": "2026-07-31T08:47:50+00:00"
   }
 ]
