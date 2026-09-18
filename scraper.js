@@ -12,27 +12,23 @@ const filePath = path.join(dataDir, "instagram.json");
 
 async function scrapeInstagram(forceRefresh = false) {
   try {
-    // Pastikan directory ada sebelum segala sesuatu
     if (!fs.existsSync(dataDir)) {
       fs.mkdirSync(dataDir, { recursive: true });
     }
 
-    // 1. Cek apakah file instagram.json sudah ada
+    // 1. Cek cache lokal
     if (!forceRefresh && fs.existsSync(filePath)) {
       try {
         const stats = fs.statSync(filePath);
         const fileAgeInMinutes = (Date.now() - stats.mtimeMs) / (1000 * 60);
-
-        // Atur batas kedaluwarsa cache (misal: 60 menit / 1 jam)
-        const CACHE_DURATION_MINUTES = 60; 
+        const CACHE_DURATION_MINUTES = 60;
 
         if (fileAgeInMinutes < CACHE_DURATION_MINUTES) {
           console.log("=================================");
           console.log(`⚡ MENGGUNAKAN CACHE LOKAL (File berumur ${fileAgeInMinutes.toFixed(1)} menit)`);
           console.log("=================================");
           
-          const cachedData = JSON.parse(fs.readFileSync(filePath, "utf8"));
-          return cachedData; // Langsung kembalikan data tanpa akses API (Sangat Cepat!)
+          return JSON.parse(fs.readFileSync(filePath, "utf8"));
         }
       } catch (cacheError) {
         console.log("⚠️ Error membaca cache, melanjutkan ke API...");
@@ -62,24 +58,35 @@ async function scrapeInstagram(forceRefresh = false) {
       throw new Error("Response Apify bukan array atau data kosong.");
     }
 
+    // 2. Pemetaan ringkas (Hanya data yang siap pakai untuk Frontend Website)
     const formattedPosts = rawPosts.map((post) => {
+      // Ekstrak teks caption (baik dalam bentuk string maupun objek bawaan Apify)
+      let captionText = "";
+      if (typeof post.caption === "string") {
+        captionText = post.caption;
+      } else if (post.caption && post.caption.text) {
+        captionText = post.caption.text;
+      }
+
       const isVideoPost = post.isVideo || post.is_video || post.media_type === 2 || false;
       const videoSrc = post.videoUrl || post.video_url || null;
 
+      // Ambil URL gambar/thumbnail terbaik
       let imageCandidate = 
-        post.thumbnail_url || 
         post.thumbnailUrl || 
-        (post.image_versions && post.image_versions.items && post.image_versions.items[0] && post.image_versions.items[0].url) ||
+        post.thumbnail_url || 
         post.displayUrl || 
         post.display_url || 
         post.imageUrl || 
         post.image_url || 
+        (post.image_versions && post.image_versions.items && post.image_versions.items[0] && post.image_versions.items[0].url) ||
         "";
 
       if (!imageCandidate && isVideoPost) {
         imageCandidate = videoSrc || "";
       }
 
+      // Penentuan tipe postingan
       let postType = "Image";
       if (isVideoPost || videoSrc || post.media_type === 2) {
         postType = "Video";
@@ -87,17 +94,18 @@ async function scrapeInstagram(forceRefresh = false) {
         postType = "Carousel";
       }
 
+      // Objek ringkas & efisien untuk Frontend
       return {
         id: post.id || post.code || "",
         type: postType,
-        caption: post.caption || "",
+        caption: captionText,
         thumbnailUrl: imageCandidate,
         isVideo: isVideoPost,
         videoUrl: videoSrc,
-        likesCount: post.like_count || post.likesCount || 0,
-        commentsCount: post.comment_count || post.commentsCount || 0,
-        postUrl: post.code ? `https://www.instagram.com/p/${post.code}/` : (post.url || ""),
-        timestamp: post.taken_at_date || post.timestamp || new Date().toISOString()
+        likesCount: post.likesCount || post.like_count || 0,
+        commentsCount: post.commentsCount || post.comment_count || 0,
+        postUrl: post.postUrl || (post.code ? `https://www.instagram.com/p/${post.code}/` : post.url || ""),
+        timestamp: post.timestamp || post.taken_at_date || new Date().toISOString()
       };
     });
 
@@ -119,12 +127,11 @@ async function scrapeInstagram(forceRefresh = false) {
       console.log("Error:", error.message);
     }
     
-    // Fallback: Jika API gagal/timeout, coba berikan data cache lama jika ada
+    // Fallback cache
     if (fs.existsSync(filePath)) {
       try {
         console.log("⚠️ Menggunakan data cache lama sebagai cadangan karena API error.");
-        const fallbackData = JSON.parse(fs.readFileSync(filePath, "utf8"));
-        return fallbackData;
+        return JSON.parse(fs.readFileSync(filePath, "utf8"));
       } catch (fallbackError) {
         console.log("❌ Gagal membaca cache fallback:", fallbackError.message);
         throw error;
