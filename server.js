@@ -1,81 +1,38 @@
 const express = require("express");
-const fs = require("fs").promises; // Gunakan versi async/promises
-const { existsSync } = require("fs");
+const fs = require("fs");
 const cron = require("node-cron");
 const cors = require("cors");
-const { fork } = require("child_process");
-const path = require("path");
-const { filePath } = require("./scraper");
+const { scrapeInstagram, filePath } = require("./scraper");
 
 const app = express();
 app.use(cors());
 app.use(express.json());
 
 const PORT = process.env.PORT || 3000;
-let isScraping = false;
-
-// Function penolong untuk menjalankan scraping di Child Process terpisah
-const runScraperInChildProcess = () => {
-  return new Promise((resolve, reject) => {
-    if (isScraping) {
-      return reject(new Error("Proses scraping sedang berjalan!"));
-    }
-
-    isScraping = true;
-    console.log("🔄 Memulai scraping di child process...");
-
-    // Jalankan file scraper terpisah agar tidak memblokir Event Loop utama
-    const child = fork(path.join(__dirname, "run-scraper.js"));
-
-    child.on("message", (message) => {
-      if (message.status === "success") {
-        isScraping = false;
-        resolve(message.data);
-      } else {
-        isScraping = false;
-        reject(new Error(message.error));
-      }
-    });
-
-    child.on("error", (err) => {
-      isScraping = false;
-      reject(err);
-    });
-
-    child.on("exit", (code) => {
-      isScraping = false;
-      if (code !== 0) {
-        reject(new Error(`Child process berhenti dengan code ${code}`));
-      }
-    });
-  });
-};
 
 // ⏰ Jadwal Cron: Berjalan otomatis setiap 5 jam sekali
 cron.schedule("0 */5 * * *", async () => {
   console.log("⏰ [CRON JOB] Menjalankan update otomatis 5 jam sekali...");
   try {
-    await runScraperInChildProcess();
-    console.log("✅ Cron scraping selesai!");
+    await scrapeInstagram();
   } catch (err) {
     console.error("Gagal melakukan cron scraping:", err.message);
   }
 });
 
-// --- ENDPOINT API ---
+// --- ENDPOINT API UNTUK FRONTEND ---
 
-// 1. Endpoint Non-Blocking untuk membaca JSON
-app.get("/api/posts", async (req, res) => {
+// 1. Endpoint untuk membaca file JSON (Dipanggil oleh Website Anda)
+app.get("/api/posts", (req, res) => {
   try {
-    if (!existsSync(filePath)) {
+    if (!fs.existsSync(filePath)) {
       return res.status(404).json({
         success: false,
-        message: "File JSON belum ada. Silakan akses /api/force-scrape."
+        message: "File JSON belum ada. Silakan akses /api/force-scrape untuk membuat data awal."
       });
     }
 
-    // Gunakan fs.promises.readFile (Async)
-    const rawData = await fs.readFile(filePath, "utf8");
+    const rawData = fs.readFileSync(filePath, "utf8");
     const posts = JSON.parse(rawData);
 
     res.status(200).json({
@@ -88,11 +45,11 @@ app.get("/api/posts", async (req, res) => {
   }
 });
 
-// 2. Endpoint manual force-scrape
+// 2. Endpoint darurat untuk memaksa scraping manual lewat browser/Postman
 app.get("/api/force-scrape", async (req, res) => {
   try {
-    await runScraperInChildProcess();
-    res.json({ success: true, message: "Scraping manual berhasil!" });
+    await scrapeInstagram();
+    res.json({ success: true, message: "Scraping manual berhasil dijalankan dan file JSON diperbarui!" });
   } catch (error) {
     res.status(500).json({ success: false, error: error.message });
   }
@@ -100,13 +57,10 @@ app.get("/api/force-scrape", async (req, res) => {
 
 app.listen(PORT, async () => {
   console.log(`🚀 Server berjalan di port ${PORT}`);
-
-  if (!existsSync(filePath)) {
+  
+  // Jalankan sekali saat server pertama kali menyala jika file JSON belum ada
+  if (!fs.existsSync(filePath)) {
     console.log("📁 File JSON belum ditemukan, melakukan initial scraping...");
-    try {
-      await runScraperInChildProcess();
-    } catch (err) {
-      console.error("Initial scraping gagal:", err.message);
-    }
+    await scrapeInstagram();
   }
 });
