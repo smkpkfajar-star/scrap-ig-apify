@@ -1,5 +1,6 @@
 const axios = require("axios");
-const fs = require("fs");
+const fs = require("fs").promises; // Gunakan Async/Promises
+const { existsSync } = require("fs");
 const path = require("path");
 require("dotenv").config();
 
@@ -12,14 +13,15 @@ const filePath = path.join(dataDir, "instagram.json");
 
 async function scrapeInstagram(forceRefresh = false) {
   try {
-    if (!fs.existsSync(dataDir)) {
-      fs.mkdirSync(dataDir, { recursive: true });
+    // 1. Buat direktori jika belum ada (Async)
+    if (!existsSync(dataDir)) {
+      await fs.mkdir(dataDir, { recursive: true });
     }
 
-    // 1. Cek cache lokal
-    if (!forceRefresh && fs.existsSync(filePath)) {
+    // 2. Cek cache lokal secara Non-Blocking
+    if (!forceRefresh && existsSync(filePath)) {
       try {
-        const stats = fs.statSync(filePath);
+        const stats = await fs.stat(filePath);
         const fileAgeInMinutes = (Date.now() - stats.mtimeMs) / (1000 * 60);
         const CACHE_DURATION_MINUTES = 60;
 
@@ -28,7 +30,8 @@ async function scrapeInstagram(forceRefresh = false) {
           console.log(`⚡ MENGGUNAKAN CACHE LOKAL (File berumur ${fileAgeInMinutes.toFixed(1)} menit)`);
           console.log("=================================");
           
-          return JSON.parse(fs.readFileSync(filePath, "utf8"));
+          const cachedData = await fs.readFile(filePath, "utf8");
+          return JSON.parse(cachedData);
         }
       } catch (cacheError) {
         console.log("⚠️ Error membaca cache, melanjutkan ke API...");
@@ -58,9 +61,8 @@ async function scrapeInstagram(forceRefresh = false) {
       throw new Error("Response Apify bukan array atau data kosong.");
     }
 
-    // 2. Pemetaan ringkas (Hanya data yang siap pakai untuk Frontend Website)
+    // 3. Pemetaan data
     const formattedPosts = rawPosts.map((post) => {
-      // Ekstrak teks caption (baik dalam bentuk string maupun objek bawaan Apify)
       let captionText = "";
       if (typeof post.caption === "string") {
         captionText = post.caption;
@@ -71,7 +73,6 @@ async function scrapeInstagram(forceRefresh = false) {
       const isVideoPost = post.isVideo || post.is_video || post.media_type === 2 || false;
       const videoSrc = post.videoUrl || post.video_url || null;
 
-      // Ambil URL gambar/thumbnail terbaik
       let imageCandidate = 
         post.thumbnailUrl || 
         post.thumbnail_url || 
@@ -86,7 +87,6 @@ async function scrapeInstagram(forceRefresh = false) {
         imageCandidate = videoSrc || "";
       }
 
-      // Penentuan tipe postingan
       let postType = "Image";
       if (isVideoPost || videoSrc || post.media_type === 2) {
         postType = "Video";
@@ -94,7 +94,6 @@ async function scrapeInstagram(forceRefresh = false) {
         postType = "Carousel";
       }
 
-      // Objek ringkas & efisien untuk Frontend
       return {
         id: post.id || post.code || "",
         type: postType,
@@ -109,7 +108,8 @@ async function scrapeInstagram(forceRefresh = false) {
       };
     });
 
-    fs.writeFileSync(filePath, JSON.stringify(formattedPosts, null, 2), "utf8");
+    // 4. Simpan file secara Async
+    await fs.writeFile(filePath, JSON.stringify(formattedPosts, null, 2), "utf8");
 
     console.log("=================================");
     console.log("✅ BERHASIL DIPERBARUI & DISIMPAN KE FILE!");
@@ -127,11 +127,12 @@ async function scrapeInstagram(forceRefresh = false) {
       console.log("Error:", error.message);
     }
     
-    // Fallback cache
-    if (fs.existsSync(filePath)) {
+    // Fallback cache Async
+    if (existsSync(filePath)) {
       try {
         console.log("⚠️ Menggunakan data cache lama sebagai cadangan karena API error.");
-        return JSON.parse(fs.readFileSync(filePath, "utf8"));
+        const fallbackData = await fs.readFile(filePath, "utf8");
+        return JSON.parse(fallbackData);
       } catch (fallbackError) {
         console.log("❌ Gagal membaca cache fallback:", fallbackError.message);
         throw error;
