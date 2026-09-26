@@ -88,7 +88,7 @@ app.get("/api/force-scrape", async (req, res) => {
 
 // --- 4. JADWAL CRON JOB (SETIAP HARI JAM 06:00 WIB) ---
 cron.schedule(
-  "35 8 * * *",
+  "0 9 * * *",
   async () => {
     console.log("⏰ [CRON JOB] Menjalankan update otomatis jam 06:00 WIB...");
     try {
