@@ -4,7 +4,7 @@ const path = require("path");
 require("dotenv").config();
 
 const APIFY_TOKEN = process.env.APIFY_TOKEN;
-const USERNAME = "smptamandewasajetisjogja";
+const USERNAME = "tamsis.dev";
 const APIFY_URL = `https://api.apify.com/v2/acts/data-slayer~instagram-posts/run-sync-get-dataset-items?token=${APIFY_TOKEN}`;
 
 const dataDir = path.join(__dirname, "data");
