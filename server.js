@@ -16,6 +16,8 @@ const MY_SECRET = "rahasia_sekolah_12345";
 // --- 1. ENDPOINT KHUSUS KEEP-ALIVE PING ---
 // Dipanggil oleh Cron-Job.org / UptimeRobot setiap 12 menit
 app.get("/ping", (req, res) => {
+  console.log("Berhasil di reboot oleh cronjob");
+  
   res.status(200).send("OK");
 });
 
@@ -91,7 +93,7 @@ cron.schedule(
     console.log("⏰ [CRON JOB] Menjalankan update otomatis jam 06:00 WIB...");
     try {
       await scrapeInstagram(true);
-      console.log("✅ Scraping otomatis jam 06:00 WIB selesai!");
+      console.log("✅ Scraping otomatis jam 08:35 WIB selesai!");
     } catch (err) {
       console.error("❌ Gagal cron jam 6 pagi:", err.message);
     }
