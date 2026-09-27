@@ -88,12 +88,12 @@ app.get("/api/force-scrape", async (req, res) => {
 
 // --- 4. JADWAL CRON JOB (SETIAP HARI JAM 06:00 WIB) ---
 cron.schedule(
-  "* 6 * * *",
+  "0 6 * * *",
   async () => {
     console.log("⏰ [CRON JOB] Menjalankan update otomatis jam 06:00 WIB...");
     try {
       await scrapeInstagram(true);
-      console.log("✅ Scraping otomatis jam 08:35 WIB selesai!");
+      console.log("✅ Scraping otomatis jam 06.00 WIB selesai!");
     } catch (err) {
       console.error("❌ Gagal cron jam 6 pagi:", err.message);
     }
